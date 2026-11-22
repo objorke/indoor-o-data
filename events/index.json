@@ -136,5 +136,23 @@
     "url": "./2026-07-10-Sørlandsgaloppen.json",
     "date": "2026-07-10",
     "country": "norway"
+  },
+  {
+    "title": "O-event indoor",
+    "url": "./2026-11-15-O-event-indoor.json",
+    "date": "2026-11-15",
+    "country": "sweden"
+  },
+  {
+    "title": "Stokke inne-o, Vear skole",
+    "url": "./2026-11-21-Stokke-Vear.json",
+    "date": "2026-11-21",
+    "country": "norway"
+  },
+  {
+    "title": "Fossum inne-o, Østerås skole",
+    "url": "./2026-11-22-Fossum-Østerås.json",
+    "date": "2026-11-22",
+    "country": "norway"
   }
 ]
