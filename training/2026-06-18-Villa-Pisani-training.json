@@ -1,0 +1,31 @@
+{
+  "eventId": "ac58d5fd-73ff-47e5-967c-dc74e7fd0fb1",
+  "eventName": "Villa Pisano labyrinth",
+  "eventDate": "2026-06-18",
+  "exportTime": "2026-11-23T15:12:36.403Z",
+  "country": "",
+  "eventUrl": "https://museiveneto.cultura.gov.it/musei/museo-nazionale-di-villa-pisani/sede",
+  "eventImageUrl": "https://gallery.artsupp.com/partners_exhibitions_pictures/full/31592.jpg",
+  "stairs": [],
+  "difficultyScoringModel": "alpha@0.1",
+  "courses": [
+    {
+      "id": "0a3511e7-7709-4fd6-b213-83d3fccd9b9b",
+      "courseName": "Course 1",
+      "controls": 0,
+      "floors": [
+        1,
+        1
+      ],
+      "validRoutes": [
+        [
+          {
+            "route": "-",
+            "length": 320,
+            "difficulty": 74
+          }
+        ]
+      ]
+    }
+  ]
+}

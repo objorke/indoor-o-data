@@ -1,0 +1,1758 @@
+{
+  "eventId": "c4f2aeb8-e3e0-42cd-9b8e-15e3284a30b4",
+  "eventName": "Stockholm Indoor Cup 2025 - Etapp 2",
+  "eventDate": "2025-02-02",
+  "exportTime": "2026-11-23T15:00:05.407Z",
+  "country": "sweden",
+  "eventUrl": "https://eventor.orientering.se/Events/Show/51649",
+  "eventImageUrl": "https://grundskola.stockholm/optimized/serviceunitspage/filer/hitta/bd53ba9b-f39c-4a08-af3e-097d56573863.jpg?format=webp",
+  "mapUrl": "https://drive.google.com/drive/folders/1tjOeIE6JRpV-9Qwku2t6CJjIbWWcVxyZ",
+  "stairs": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "H",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "difficultyScoringModel": "alpha@0.1",
+  "courses": [
+    {
+      "id": "754c43cd-37d4-4106-bbb8-d398c5a3bdcd",
+      "courseName": "Bana 1",
+      "classNames": [
+        "Herrar"
+      ],
+      "controls": 29,
+      "floors": [
+        2,
+        2,
+        2,
+        3,
+        4,
+        4,
+        5,
+        6,
+        4,
+        3,
+        2,
+        3,
+        1,
+        1,
+        5,
+        5,
+        2,
+        1,
+        1,
+        3,
+        3,
+        5,
+        5,
+        4,
+        1,
+        1,
+        1,
+        3,
+        3,
+        2,
+        2
+      ],
+      "validRoutes": [
+        [
+          {
+            "route": "-",
+            "length": 23,
+            "difficulty": 15
+          },
+          {
+            "route": "AbbA",
+            "length": 360,
+            "difficulty": 95
+          },
+          {
+            "route": "CDcbbA",
+            "length": 533,
+            "difficulty": 107
+          },
+          {
+            "route": "ABBddc",
+            "length": 554,
+            "difficulty": 126
+          },
+          {
+            "route": "CDDbbbbA",
+            "length": 577,
+            "difficulty": 123
+          },
+          {
+            "route": "aBBBBddc",
+            "length": 623,
+            "difficulty": 135
+          },
+          {
+            "route": "aBBBBcaa",
+            "length": 626,
+            "difficulty": 127
+          },
+          {
+            "route": "CDDcaa",
+            "length": 632,
+            "difficulty": 107
+          },
+          {
+            "route": "ABBdcbbA",
+            "length": 664,
+            "difficulty": 160
+          },
+          {
+            "route": "CDcBBcaa",
+            "length": 708,
+            "difficulty": 123
+          },
+          {
+            "route": "CDDcabbA",
+            "length": 781,
+            "difficulty": 149
+          },
+          {
+            "route": "CDcBBcabbA",
+            "length": 858,
+            "difficulty": 165
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 57,
+            "difficulty": 11
+          },
+          {
+            "route": "AbbA",
+            "length": 308,
+            "difficulty": 80
+          },
+          {
+            "route": "CDcbbA",
+            "length": 503,
+            "difficulty": 107
+          },
+          {
+            "route": "CDDbbbbA",
+            "length": 547,
+            "difficulty": 123
+          },
+          {
+            "route": "aBBBBcaa",
+            "length": 573,
+            "difficulty": 112
+          },
+          {
+            "route": "ABBddc",
+            "length": 586,
+            "difficulty": 119
+          },
+          {
+            "route": "CDDcaa",
+            "length": 602,
+            "difficulty": 107
+          },
+          {
+            "route": "ABBdcbbA",
+            "length": 612,
+            "difficulty": 146
+          },
+          {
+            "route": "aBBBBddc",
+            "length": 655,
+            "difficulty": 127
+          },
+          {
+            "route": "CDcBBcaa",
+            "length": 678,
+            "difficulty": 123
+          },
+          {
+            "route": "CDDcabbA",
+            "length": 751,
+            "difficulty": 149
+          },
+          {
+            "route": "CDcBBcabbA",
+            "length": 828,
+            "difficulty": 165
+          }
+        ],
+        [
+          {
+            "route": "C",
+            "length": 252,
+            "difficulty": 28
+          },
+          {
+            "route": "ABBdd",
+            "length": 314,
+            "difficulty": 86
+          },
+          {
+            "route": "aBBBBdd",
+            "length": 383,
+            "difficulty": 95
+          },
+          {
+            "route": "AbbAC",
+            "length": 503,
+            "difficulty": 98
+          },
+          {
+            "route": "aBBBBcaaC",
+            "length": 769,
+            "difficulty": 130
+          },
+          {
+            "route": "ABBdcbbAC",
+            "length": 807,
+            "difficulty": 163
+          }
+        ],
+        [
+          {
+            "route": "DDc",
+            "length": 255,
+            "difficulty": 52
+          },
+          {
+            "route": "DcBBc",
+            "length": 331,
+            "difficulty": 68
+          },
+          {
+            "route": "DcbbAAA",
+            "length": 407,
+            "difficulty": 106
+          },
+          {
+            "route": "cAA",
+            "length": 419,
+            "difficulty": 59
+          },
+          {
+            "route": "DDbbbbAAA",
+            "length": 451,
+            "difficulty": 122
+          },
+          {
+            "route": "DcbbAABBc",
+            "length": 530,
+            "difficulty": 137
+          },
+          {
+            "route": "cABBc",
+            "length": 541,
+            "difficulty": 90
+          },
+          {
+            "route": "caBBBBc",
+            "length": 610,
+            "difficulty": 99
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 108,
+            "difficulty": 7
+          },
+          {
+            "route": "aBBc",
+            "length": 454,
+            "difficulty": 73
+          },
+          {
+            "route": "aaaBBBBc",
+            "length": 551,
+            "difficulty": 101
+          },
+          {
+            "route": "aaCDDc",
+            "length": 738,
+            "difficulty": 111
+          },
+          {
+            "route": "aaCDcBBc",
+            "length": 814,
+            "difficulty": 127
+          },
+          {
+            "route": "abbACDDc",
+            "length": 887,
+            "difficulty": 153
+          },
+          {
+            "route": "abbACDcBBc",
+            "length": 963,
+            "difficulty": 169
+          }
+        ],
+        [
+          {
+            "route": "A",
+            "length": 40,
+            "difficulty": 14
+          },
+          {
+            "route": "aBBcA",
+            "length": 385,
+            "difficulty": 79
+          },
+          {
+            "route": "aaaBBBBcA",
+            "length": 483,
+            "difficulty": 107
+          },
+          {
+            "route": "aaCDDcA",
+            "length": 669,
+            "difficulty": 117
+          },
+          {
+            "route": "aaCDcBBcA",
+            "length": 746,
+            "difficulty": 133
+          },
+          {
+            "route": "abbACDDcA",
+            "length": 818,
+            "difficulty": 159
+          },
+          {
+            "route": "abbACDcBBcA",
+            "length": 895,
+            "difficulty": 175
+          }
+        ],
+        [
+          {
+            "route": "aaBBD",
+            "length": 264,
+            "difficulty": 72
+          },
+          {
+            "route": "aaaaBBBBD",
+            "length": 361,
+            "difficulty": 100
+          },
+          {
+            "route": "aaaCDDD",
+            "length": 366,
+            "difficulty": 88
+          },
+          {
+            "route": "aabbACDDD",
+            "length": 515,
+            "difficulty": 130
+          },
+          {
+            "route": "aaaCDcBBD",
+            "length": 624,
+            "difficulty": 126
+          },
+          {
+            "route": "aabbACDcBBD",
+            "length": 773,
+            "difficulty": 168
+          }
+        ],
+        [
+          {
+            "route": "dd",
+            "length": 48,
+            "difficulty": 23
+          },
+          {
+            "route": "dcaBBd",
+            "length": 575,
+            "difficulty": 111
+          },
+          {
+            "route": "ddcbbACD",
+            "length": 578,
+            "difficulty": 127
+          },
+          {
+            "route": "dbbbbACD",
+            "length": 597,
+            "difficulty": 123
+          },
+          {
+            "route": "dcaaCD",
+            "length": 652,
+            "difficulty": 107
+          },
+          {
+            "route": "dcaaaBBBBd",
+            "length": 672,
+            "difficulty": 140
+          },
+          {
+            "route": "ddcBBcaaCD",
+            "length": 754,
+            "difficulty": 143
+          },
+          {
+            "route": "dcabbACD",
+            "length": 802,
+            "difficulty": 149
+          },
+          {
+            "route": "ddcBBcabbACD",
+            "length": 903,
+            "difficulty": 185
+          },
+          {
+            "route": "dcaaCDcBBd",
+            "length": 935,
+            "difficulty": 165
+          },
+          {
+            "route": "dcabbACDcBBd",
+            "length": 1085,
+            "difficulty": 207
+          },
+          {
+            "route": "dcaBBdcbbACD",
+            "length": 1106,
+            "difficulty": 215
+          }
+        ],
+        [
+          {
+            "route": "cbbAA",
+            "length": 301,
+            "difficulty": 72
+          },
+          {
+            "route": "cBBca",
+            "length": 448,
+            "difficulty": 68
+          },
+          {
+            "route": "cBBcabbAA",
+            "length": 626,
+            "difficulty": 130
+          },
+          {
+            "route": "cBBddcA",
+            "length": 632,
+            "difficulty": 110
+          },
+          {
+            "route": "cbbAABBca",
+            "length": 647,
+            "difficulty": 137
+          },
+          {
+            "route": "cbbACDDca",
+            "length": 902,
+            "difficulty": 156
+          }
+        ],
+        [
+          {
+            "route": "BBddd",
+            "length": 297,
+            "difficulty": 72
+          },
+          {
+            "route": "aCd",
+            "length": 350,
+            "difficulty": 56
+          },
+          {
+            "route": "aaBBBBddd",
+            "length": 397,
+            "difficulty": 107
+          },
+          {
+            "route": "bbACd",
+            "length": 497,
+            "difficulty": 90
+          },
+          {
+            "route": "BBcaaCd",
+            "length": 693,
+            "difficulty": 114
+          },
+          {
+            "route": "BBdcbbACd",
+            "length": 801,
+            "difficulty": 156
+          }
+        ],
+        [
+          {
+            "route": "D",
+            "length": 130,
+            "difficulty": 17
+          },
+          {
+            "route": "DDcbbAC",
+            "length": 450,
+            "difficulty": 106
+          },
+          {
+            "route": "DDDbbbbAC",
+            "length": 494,
+            "difficulty": 122
+          },
+          {
+            "route": "DDDcaaC",
+            "length": 550,
+            "difficulty": 106
+          },
+          {
+            "route": "DDcBBcaaC",
+            "length": 626,
+            "difficulty": 122
+          },
+          {
+            "route": "DcABBdd",
+            "length": 660,
+            "difficulty": 125
+          },
+          {
+            "route": "DDDcabbAC",
+            "length": 699,
+            "difficulty": 148
+          },
+          {
+            "route": "DcaBBBBdd",
+            "length": 729,
+            "difficulty": 133
+          },
+          {
+            "route": "DDcBBcabbAC",
+            "length": 775,
+            "difficulty": 164
+          }
+        ],
+        [
+          {
+            "route": "ca",
+            "length": 285,
+            "difficulty": 46
+          },
+          {
+            "route": "cAbb",
+            "length": 297,
+            "difficulty": 69
+          },
+          {
+            "route": "Dcbb",
+            "length": 309,
+            "difficulty": 62
+          },
+          {
+            "route": "DDbbbb",
+            "length": 353,
+            "difficulty": 78
+          },
+          {
+            "route": "DDcabb",
+            "length": 557,
+            "difficulty": 104
+          },
+          {
+            "route": "DDcaaa",
+            "length": 573,
+            "difficulty": 100
+          },
+          {
+            "route": "cABBdcbb",
+            "length": 601,
+            "difficulty": 135
+          },
+          {
+            "route": "DcBBcabb",
+            "length": 634,
+            "difficulty": 120
+          },
+          {
+            "route": "DcBBcaaa",
+            "length": 649,
+            "difficulty": 116
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 65,
+            "difficulty": 11
+          },
+          {
+            "route": "AAbb",
+            "length": 242,
+            "difficulty": 73
+          },
+          {
+            "route": "BBBBcaaa",
+            "length": 401,
+            "difficulty": 94
+          },
+          {
+            "route": "AABBdcbb",
+            "length": 546,
+            "difficulty": 138
+          },
+          {
+            "route": "BBBBddca",
+            "length": 557,
+            "difficulty": 116
+          },
+          {
+            "route": "ACDcbb",
+            "length": 595,
+            "difficulty": 115
+          },
+          {
+            "route": "ACDDbbbb",
+            "length": 640,
+            "difficulty": 131
+          },
+          {
+            "route": "ACDDcabb",
+            "length": 844,
+            "difficulty": 157
+          },
+          {
+            "route": "ACDcBBcabb",
+            "length": 920,
+            "difficulty": 173
+          }
+        ],
+        [
+          {
+            "route": "AABB",
+            "length": 245,
+            "difficulty": 69
+          },
+          {
+            "route": "BBBB",
+            "length": 260,
+            "difficulty": 58
+          },
+          {
+            "route": "ACDD",
+            "length": 357,
+            "difficulty": 77
+          },
+          {
+            "route": "ACDcBB",
+            "length": 576,
+            "difficulty": 104
+          },
+          {
+            "route": "BBBBcaaCDD",
+            "length": 746,
+            "difficulty": 151
+          },
+          {
+            "route": "ACDDcaBB",
+            "length": 846,
+            "difficulty": 153
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 113,
+            "difficulty": 19
+          },
+          {
+            "route": "dcBB",
+            "length": 253,
+            "difficulty": 65
+          },
+          {
+            "route": "dcbbAABB",
+            "length": 451,
+            "difficulty": 135
+          },
+          {
+            "route": "caBB",
+            "length": 459,
+            "difficulty": 84
+          },
+          {
+            "route": "bbbbAAAC",
+            "length": 479,
+            "difficulty": 109
+          },
+          {
+            "route": "dcbbAAAC",
+            "length": 498,
+            "difficulty": 123
+          },
+          {
+            "route": "ddcABB",
+            "length": 499,
+            "difficulty": 115
+          },
+          {
+            "route": "ddcAAC",
+            "length": 546,
+            "difficulty": 104
+          },
+          {
+            "route": "caaaBBBB",
+            "length": 556,
+            "difficulty": 112
+          },
+          {
+            "route": "ddcaBBBB",
+            "length": 568,
+            "difficulty": 123
+          },
+          {
+            "route": "bbbbACDD",
+            "length": 687,
+            "difficulty": 138
+          },
+          {
+            "route": "caaCDD",
+            "length": 743,
+            "difficulty": 122
+          },
+          {
+            "route": "caaCDcBB",
+            "length": 819,
+            "difficulty": 138
+          },
+          {
+            "route": "cabbACDD",
+            "length": 892,
+            "difficulty": 164
+          },
+          {
+            "route": "cabbACDcBB",
+            "length": 968,
+            "difficulty": 180
+          }
+        ],
+        [
+          {
+            "route": "caa",
+            "length": 332,
+            "difficulty": 67
+          },
+          {
+            "route": "cabbA",
+            "length": 481,
+            "difficulty": 109
+          },
+          {
+            "route": "caBBddc",
+            "length": 653,
+            "difficulty": 125
+          },
+          {
+            "route": "caaaBBBBddc",
+            "length": 750,
+            "difficulty": 153
+          },
+          {
+            "route": "caBBdcbbA",
+            "length": 785,
+            "difficulty": 174
+          },
+          {
+            "route": "caaCDcbbA",
+            "length": 862,
+            "difficulty": 170
+          },
+          {
+            "route": "caaCDDbbbbA",
+            "length": 906,
+            "difficulty": 186
+          }
+        ],
+        [
+          {
+            "route": "a",
+            "length": 72,
+            "difficulty": 25
+          },
+          {
+            "route": "AbbAa",
+            "length": 463,
+            "difficulty": 135
+          },
+          {
+            "route": "ABBddca",
+            "length": 635,
+            "difficulty": 151
+          },
+          {
+            "route": "CDcbbAa",
+            "length": 636,
+            "difficulty": 147
+          },
+          {
+            "route": "CDDbbbbAa",
+            "length": 680,
+            "difficulty": 163
+          },
+          {
+            "route": "aBBBBddca",
+            "length": 704,
+            "difficulty": 159
+          },
+          {
+            "route": "aBBBBcaaa",
+            "length": 729,
+            "difficulty": 167
+          },
+          {
+            "route": "CDDcaaa",
+            "length": 735,
+            "difficulty": 147
+          },
+          {
+            "route": "ABBdcbbAa",
+            "length": 767,
+            "difficulty": 200
+          },
+          {
+            "route": "CDcBBcaaa",
+            "length": 811,
+            "difficulty": 163
+          },
+          {
+            "route": "CDDcabbAa",
+            "length": 884,
+            "difficulty": 189
+          },
+          {
+            "route": "CDcBBcabbAa",
+            "length": 960,
+            "difficulty": 205
+          }
+        ],
+        [
+          {
+            "route": "Ad",
+            "length": 134,
+            "difficulty": 35
+          },
+          {
+            "route": "AAbbAd",
+            "length": 642,
+            "difficulty": 148
+          },
+          {
+            "route": "AABBddcd",
+            "length": 814,
+            "difficulty": 164
+          },
+          {
+            "route": "ACDcbbAd",
+            "length": 814,
+            "difficulty": 160
+          },
+          {
+            "route": "ACDDbbbbAd",
+            "length": 859,
+            "difficulty": 177
+          },
+          {
+            "route": "AaBBBBddcd",
+            "length": 883,
+            "difficulty": 173
+          },
+          {
+            "route": "AaBBBBcaad",
+            "length": 908,
+            "difficulty": 180
+          },
+          {
+            "route": "ACDDcaad",
+            "length": 914,
+            "difficulty": 160
+          },
+          {
+            "route": "AABBdcbbAd",
+            "length": 946,
+            "difficulty": 214
+          },
+          {
+            "route": "ACDcBBcaad",
+            "length": 990,
+            "difficulty": 177
+          },
+          {
+            "route": "ACDDcabbAd",
+            "length": 1063,
+            "difficulty": 202
+          },
+          {
+            "route": "ACDcBBcabbAd",
+            "length": 1139,
+            "difficulty": 219
+          }
+        ],
+        [
+          {
+            "route": "DaMC",
+            "length": 276,
+            "difficulty": 73
+          },
+          {
+            "route": "DaMhBB",
+            "length": 403,
+            "difficulty": 107
+          },
+          {
+            "route": "DaMCCb",
+            "length": 468,
+            "difficulty": 119
+          },
+          {
+            "route": "DaMCDLdb",
+            "length": 473,
+            "difficulty": 142
+          },
+          {
+            "route": "DaMhEC",
+            "length": 493,
+            "difficulty": 107
+          },
+          {
+            "route": "DaMhBBDLdb",
+            "length": 600,
+            "difficulty": 177
+          },
+          {
+            "route": "DaMhBJCb",
+            "length": 607,
+            "difficulty": 157
+          },
+          {
+            "route": "DaMhBBCb",
+            "length": 662,
+            "difficulty": 160
+          },
+          {
+            "route": "DaMhECCb",
+            "length": 685,
+            "difficulty": 153
+          },
+          {
+            "route": "DaMhECDLdb",
+            "length": 690,
+            "difficulty": 177
+          },
+          {
+            "route": "DAbbAaMC",
+            "length": 783,
+            "difficulty": 186
+          },
+          {
+            "route": "DAbbAaMhBB",
+            "length": 910,
+            "difficulty": 221
+          },
+          {
+            "route": "DABBddcaMC",
+            "length": 955,
+            "difficulty": 202
+          },
+          {
+            "route": "DCDcbbAaMC",
+            "length": 956,
+            "difficulty": 199
+          },
+          {
+            "route": "DAbbAaMCCb",
+            "length": 975,
+            "difficulty": 232
+          },
+          {
+            "route": "DAbbAaMCDLdb",
+            "length": 980,
+            "difficulty": 256
+          },
+          {
+            "route": "DCDDbbbbAaMC",
+            "length": 1000,
+            "difficulty": 215
+          },
+          {
+            "route": "DAbbAaMhEC",
+            "length": 1001,
+            "difficulty": 221
+          },
+          {
+            "route": "DaBBBBddcaMC",
+            "length": 1024,
+            "difficulty": 211
+          },
+          {
+            "route": "DaBBBBcaaaMC",
+            "length": 1049,
+            "difficulty": 219
+          },
+          {
+            "route": "DCDDcaaaMC",
+            "length": 1055,
+            "difficulty": 199
+          },
+          {
+            "route": "DABBddcaMhBB",
+            "length": 1082,
+            "difficulty": 237
+          },
+          {
+            "route": "DCDcbbAaMhBB",
+            "length": 1083,
+            "difficulty": 233
+          },
+          {
+            "route": "DABBdcbbAaMC",
+            "length": 1087,
+            "difficulty": 252
+          },
+          {
+            "route": "DAbbAaMhBBDLdb",
+            "length": 1107,
+            "difficulty": 290
+          },
+          {
+            "route": "DAbbAaMhBJCb",
+            "length": 1115,
+            "difficulty": 270
+          },
+          {
+            "route": "DCDDbbbbAaMhBB",
+            "length": 1127,
+            "difficulty": 249
+          },
+          {
+            "route": "DCDcBBcaaaMC",
+            "length": 1131,
+            "difficulty": 215
+          },
+          {
+            "route": "DABBddcaMCCb",
+            "length": 1147,
+            "difficulty": 248
+          },
+          {
+            "route": "DCDcbbAaMCCb",
+            "length": 1148,
+            "difficulty": 244
+          },
+          {
+            "route": "DaBBBBddcaMhBB",
+            "length": 1151,
+            "difficulty": 246
+          },
+          {
+            "route": "DABBddcaMCDLdb",
+            "length": 1152,
+            "difficulty": 272
+          },
+          {
+            "route": "DCDcbbAaMCDLdb",
+            "length": 1153,
+            "difficulty": 268
+          },
+          {
+            "route": "DAbbAaMhBBCb",
+            "length": 1169,
+            "difficulty": 274
+          },
+          {
+            "route": "DABBddcaMhEC",
+            "length": 1173,
+            "difficulty": 237
+          },
+          {
+            "route": "DCDcbbAaMhEC",
+            "length": 1173,
+            "difficulty": 233
+          },
+          {
+            "route": "DaBBBBcaaaMhBB",
+            "length": 1176,
+            "difficulty": 253
+          },
+          {
+            "route": "DCDDcaaaMhBB",
+            "length": 1182,
+            "difficulty": 233
+          },
+          {
+            "route": "DCDDbbbbAaMCCb",
+            "length": 1192,
+            "difficulty": 260
+          },
+          {
+            "route": "DAbbAaMhECCb",
+            "length": 1193,
+            "difficulty": 267
+          },
+          {
+            "route": "DCDDbbbbAaMCDLdb",
+            "length": 1197,
+            "difficulty": 284
+          },
+          {
+            "route": "DAbbAaMhECDLdb",
+            "length": 1198,
+            "difficulty": 290
+          },
+          {
+            "route": "DCDDcabbAaMC",
+            "length": 1204,
+            "difficulty": 241
+          },
+          {
+            "route": "DABBdcbbAaMhBB",
+            "length": 1214,
+            "difficulty": 286
+          },
+          {
+            "route": "DaBBBBddcaMCCb",
+            "length": 1216,
+            "difficulty": 257
+          },
+          {
+            "route": "DCDDbbbbAaMhEC",
+            "length": 1218,
+            "difficulty": 249
+          },
+          {
+            "route": "DaBBBBddcaMCDLdb",
+            "length": 1221,
+            "difficulty": 280
+          },
+          {
+            "route": "DaBBBBcaaaMCCb",
+            "length": 1241,
+            "difficulty": 264
+          },
+          {
+            "route": "DaBBBBddcaMhEC",
+            "length": 1241,
+            "difficulty": 246
+          },
+          {
+            "route": "DaBBBBcaaaMCDLdb",
+            "length": 1246,
+            "difficulty": 288
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 19,
+            "difficulty": 15
+          },
+          {
+            "route": "DLdb",
+            "length": 242,
+            "difficulty": 110
+          },
+          {
+            "route": "Cb",
+            "length": 326,
+            "difficulty": 101
+          },
+          {
+            "route": "chBB",
+            "length": 397,
+            "difficulty": 110
+          },
+          {
+            "route": "DLdbbbEC",
+            "length": 453,
+            "difficulty": 157
+          },
+          {
+            "route": "CbbbEC",
+            "length": 537,
+            "difficulty": 148
+          },
+          {
+            "route": "DLdbchBB",
+            "length": 571,
+            "difficulty": 172
+          },
+          {
+            "route": "chBBDLdb",
+            "length": 594,
+            "difficulty": 179
+          },
+          {
+            "route": "chBJCb",
+            "length": 601,
+            "difficulty": 159
+          },
+          {
+            "route": "CbchBB",
+            "length": 656,
+            "difficulty": 163
+          },
+          {
+            "route": "chBBCb",
+            "length": 656,
+            "difficulty": 163
+          }
+        ],
+        [
+          {
+            "route": "DLdbbJKC",
+            "length": 305,
+            "difficulty": 127
+          },
+          {
+            "route": "CbbJKC",
+            "length": 389,
+            "difficulty": 119
+          },
+          {
+            "route": "chBJKC",
+            "length": 443,
+            "difficulty": 107
+          },
+          {
+            "route": "DLdbchBJKC",
+            "length": 618,
+            "difficulty": 169
+          },
+          {
+            "route": "CbchBJKC",
+            "length": 702,
+            "difficulty": 160
+          }
+        ],
+        [
+          {
+            "route": "ckCD",
+            "length": 225,
+            "difficulty": 73
+          },
+          {
+            "route": "ckCbDL",
+            "length": 337,
+            "difficulty": 104
+          },
+          {
+            "route": "ckCbbbECDL",
+            "length": 549,
+            "difficulty": 151
+          }
+        ],
+        [
+          {
+            "route": "dbD",
+            "length": 180,
+            "difficulty": 63
+          },
+          {
+            "route": "dbbbECD",
+            "length": 391,
+            "difficulty": 110
+          }
+        ],
+        [
+          {
+            "route": "Ldbbb",
+            "length": 187,
+            "difficulty": 75
+          },
+          {
+            "route": "dCbbb",
+            "length": 331,
+            "difficulty": 90
+          },
+          {
+            "route": "LdbbbEh",
+            "length": 333,
+            "difficulty": 110
+          },
+          {
+            "route": "dch",
+            "length": 349,
+            "difficulty": 59
+          },
+          {
+            "route": "Ldbch",
+            "length": 465,
+            "difficulty": 98
+          },
+          {
+            "route": "dCbbbEh",
+            "length": 476,
+            "difficulty": 125
+          },
+          {
+            "route": "dCbch",
+            "length": 608,
+            "difficulty": 112
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 89,
+            "difficulty": 7
+          },
+          {
+            "route": "Eh",
+            "length": 146,
+            "difficulty": 31
+          },
+          {
+            "route": "BBch",
+            "length": 330,
+            "difficulty": 58
+          },
+          {
+            "route": "ECCbbb",
+            "length": 492,
+            "difficulty": 100
+          },
+          {
+            "route": "ECDLdbbb",
+            "length": 497,
+            "difficulty": 123
+          },
+          {
+            "route": "BJCbch",
+            "length": 535,
+            "difficulty": 107
+          }
+        ],
+        [
+          {
+            "route": "Eh",
+            "length": 93,
+            "difficulty": 23
+          },
+          {
+            "route": "BBch",
+            "length": 346,
+            "difficulty": 58
+          },
+          {
+            "route": "BJCbch",
+            "length": 551,
+            "difficulty": 107
+          }
+        ],
+        [
+          {
+            "route": "BJ",
+            "length": 187,
+            "difficulty": 49
+          },
+          {
+            "route": "BBBc",
+            "length": 219,
+            "difficulty": 77
+          },
+          {
+            "route": "BB",
+            "length": 233,
+            "difficulty": 49
+          },
+          {
+            "route": "EC",
+            "length": 257,
+            "difficulty": 42
+          },
+          {
+            "route": "BBDLdc",
+            "length": 331,
+            "difficulty": 126
+          },
+          {
+            "route": "ECDLdc",
+            "length": 421,
+            "difficulty": 126
+          },
+          {
+            "route": "BBDLdb",
+            "length": 430,
+            "difficulty": 119
+          },
+          {
+            "route": "BJCb",
+            "length": 438,
+            "difficulty": 99
+          },
+          {
+            "route": "ECCbbJ",
+            "length": 487,
+            "difficulty": 115
+          },
+          {
+            "route": "ECDLdbbJ",
+            "length": 492,
+            "difficulty": 138
+          },
+          {
+            "route": "BBCb",
+            "length": 492,
+            "difficulty": 102
+          },
+          {
+            "route": "ECCb",
+            "length": 516,
+            "difficulty": 95
+          },
+          {
+            "route": "ECDLdb",
+            "length": 521,
+            "difficulty": 119
+          }
+        ],
+        [
+          {
+            "route": "Cb",
+            "length": 227,
+            "difficulty": 60
+          },
+          {
+            "route": "CbbbEC",
+            "length": 309,
+            "difficulty": 96
+          },
+          {
+            "route": "CbchBB",
+            "length": 556,
+            "difficulty": 122
+          }
+        ],
+        [
+          {
+            "route": "cmA",
+            "length": 83,
+            "difficulty": 48
+          },
+          {
+            "route": "chEmA",
+            "length": 300,
+            "difficulty": 83
+          },
+          {
+            "route": "CbcmA",
+            "length": 404,
+            "difficulty": 105
+          },
+          {
+            "route": "DLdbcmA",
+            "length": 409,
+            "difficulty": 128
+          },
+          {
+            "route": "CbbbEmA",
+            "length": 412,
+            "difficulty": 125
+          },
+          {
+            "route": "DLdbbbEmA",
+            "length": 418,
+            "difficulty": 148
+          },
+          {
+            "route": "cmAAbbA",
+            "length": 590,
+            "difficulty": 162
+          },
+          {
+            "route": "CbchEmA",
+            "length": 621,
+            "difficulty": 140
+          },
+          {
+            "route": "DLdbchEmA",
+            "length": 626,
+            "difficulty": 163
+          },
+          {
+            "route": "cmAABBddc",
+            "length": 762,
+            "difficulty": 178
+          },
+          {
+            "route": "cmACDcbbA",
+            "length": 763,
+            "difficulty": 174
+          },
+          {
+            "route": "cmACDDbbbbA",
+            "length": 807,
+            "difficulty": 190
+          },
+          {
+            "route": "chEmAAbbA",
+            "length": 808,
+            "difficulty": 196
+          },
+          {
+            "route": "cmAaBBBBddc",
+            "length": 831,
+            "difficulty": 186
+          },
+          {
+            "route": "cmAaBBBBcaa",
+            "length": 856,
+            "difficulty": 194
+          },
+          {
+            "route": "cmACDDcaa",
+            "length": 862,
+            "difficulty": 174
+          },
+          {
+            "route": "cmAABBdcbbA",
+            "length": 894,
+            "difficulty": 227
+          },
+          {
+            "route": "CbcmAAbbA",
+            "length": 911,
+            "difficulty": 219
+          },
+          {
+            "route": "DLdbcmAAbbA",
+            "length": 916,
+            "difficulty": 242
+          },
+          {
+            "route": "CbbbEmAAbbA",
+            "length": 920,
+            "difficulty": 238
+          },
+          {
+            "route": "DLdbbbEmAAbbA",
+            "length": 925,
+            "difficulty": 262
+          },
+          {
+            "route": "cmACDcBBcaa",
+            "length": 938,
+            "difficulty": 190
+          },
+          {
+            "route": "chEmAABBddc",
+            "length": 980,
+            "difficulty": 212
+          },
+          {
+            "route": "chEmACDcbbA",
+            "length": 980,
+            "difficulty": 209
+          },
+          {
+            "route": "cmACDDcabbA",
+            "length": 1011,
+            "difficulty": 216
+          },
+          {
+            "route": "chEmACDDbbbbA",
+            "length": 1025,
+            "difficulty": 225
+          },
+          {
+            "route": "chEmAaBBBBddc",
+            "length": 1049,
+            "difficulty": 221
+          },
+          {
+            "route": "chEmAaBBBBcaa",
+            "length": 1074,
+            "difficulty": 228
+          },
+          {
+            "route": "chEmACDDcaa",
+            "length": 1080,
+            "difficulty": 209
+          },
+          {
+            "route": "CbcmAABBddc",
+            "length": 1083,
+            "difficulty": 235
+          },
+          {
+            "route": "CbcmACDcbbA",
+            "length": 1084,
+            "difficulty": 231
+          },
+          {
+            "route": "cmACDcBBcabbA",
+            "length": 1088,
+            "difficulty": 232
+          },
+          {
+            "route": "DLdbcmAABBddc",
+            "length": 1088,
+            "difficulty": 258
+          },
+          {
+            "route": "DLdbcmACDcbbA",
+            "length": 1089,
+            "difficulty": 254
+          },
+          {
+            "route": "CbbbEmAABBddc",
+            "length": 1092,
+            "difficulty": 254
+          },
+          {
+            "route": "CbbbEmACDcbbA",
+            "length": 1092,
+            "difficulty": 251
+          },
+          {
+            "route": "DLdbbbEmAABBddc",
+            "length": 1097,
+            "difficulty": 278
+          },
+          {
+            "route": "DLdbbbEmACDcbbA",
+            "length": 1097,
+            "difficulty": 274
+          },
+          {
+            "route": "chEmAABBdcbbA",
+            "length": 1112,
+            "difficulty": 262
+          },
+          {
+            "route": "CbcmACDDbbbbA",
+            "length": 1128,
+            "difficulty": 247
+          },
+          {
+            "route": "CbchEmAAbbA",
+            "length": 1129,
+            "difficulty": 253
+          },
+          {
+            "route": "DLdbcmACDDbbbbA",
+            "length": 1133,
+            "difficulty": 270
+          },
+          {
+            "route": "DLdbchEmAAbbA",
+            "length": 1134,
+            "difficulty": 277
+          },
+          {
+            "route": "CbbbEmACDDbbbbA",
+            "length": 1137,
+            "difficulty": 267
+          },
+          {
+            "route": "DLdbbbEmACDDbbbbA",
+            "length": 1142,
+            "difficulty": 290
+          },
+          {
+            "route": "CbcmAaBBBBddc",
+            "length": 1152,
+            "difficulty": 243
+          },
+          {
+            "route": "chEmACDcBBcaa",
+            "length": 1156,
+            "difficulty": 225
+          },
+          {
+            "route": "DLdbcmAaBBBBddc",
+            "length": 1157,
+            "difficulty": 267
+          },
+          {
+            "route": "CbbbEmAaBBBBddc",
+            "length": 1161,
+            "difficulty": 263
+          },
+          {
+            "route": "DLdbbbEmAaBBBBddc",
+            "length": 1166,
+            "difficulty": 286
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 27,
+            "difficulty": 7
+          },
+          {
+            "route": "AbbA",
+            "length": 594,
+            "difficulty": 132
+          },
+          {
+            "route": "ABBddc",
+            "length": 766,
+            "difficulty": 148
+          },
+          {
+            "route": "CDcbbA",
+            "length": 767,
+            "difficulty": 144
+          },
+          {
+            "route": "CDDbbbbA",
+            "length": 811,
+            "difficulty": 160
+          },
+          {
+            "route": "aBBBBddc",
+            "length": 835,
+            "difficulty": 157
+          },
+          {
+            "route": "aBBBBcaa",
+            "length": 860,
+            "difficulty": 164
+          },
+          {
+            "route": "CDDcaa",
+            "length": 866,
+            "difficulty": 144
+          },
+          {
+            "route": "ABBdcbbA",
+            "length": 898,
+            "difficulty": 198
+          },
+          {
+            "route": "CDcBBcaa",
+            "length": 943,
+            "difficulty": 160
+          },
+          {
+            "route": "CDDcabbA",
+            "length": 1016,
+            "difficulty": 186
+          },
+          {
+            "route": "CDcBBcabbA",
+            "length": 1092,
+            "difficulty": 202
+          }
+        ]
+      ]
+    }
+  ]
+}

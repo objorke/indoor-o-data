@@ -1,0 +1,4592 @@
+{
+  "eventId": "3ccf50da-299c-4ad9-b102-303a9bfdc78b",
+  "eventName": "Ale Indoor 2026 - Etapp 2",
+  "eventDate": "2026-01-04",
+  "exportTime": "2026-11-23T15:02:52.298Z",
+  "country": "sweden",
+  "stairs": [
+    "D",
+    "E",
+    "F",
+    "H",
+    "J",
+    "K",
+    "L",
+    "M",
+    "O",
+    "P",
+    "S",
+    "T",
+    "U",
+    "V",
+    "X",
+    "Z"
+  ],
+  "difficultyScoringModel": "alpha@0.1",
+  "courses": [
+    {
+      "id": "920867f2-5dc9-45fa-a970-bd3a7e69adb0",
+      "courseName": "H40",
+      "controls": 17,
+      "floors": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "validRoutes": [
+        [
+          {
+            "route": "-",
+            "length": 59,
+            "difficulty": 11
+          },
+          {
+            "route": "Jd",
+            "length": 253,
+            "difficulty": 42
+          },
+          {
+            "route": "JMsd",
+            "length": 322,
+            "difficulty": 65
+          },
+          {
+            "route": "JMud",
+            "length": 406,
+            "difficulty": 84
+          },
+          {
+            "route": "Dd",
+            "length": 436,
+            "difficulty": 60
+          },
+          {
+            "route": "JTud",
+            "length": 439,
+            "difficulty": 84
+          },
+          {
+            "route": "JTsd",
+            "length": 442,
+            "difficulty": 73
+          },
+          {
+            "route": "JPod",
+            "length": 455,
+            "difficulty": 65
+          },
+          {
+            "route": "JMod",
+            "length": 459,
+            "difficulty": 73
+          },
+          {
+            "route": "JTmd",
+            "length": 464,
+            "difficulty": 84
+          },
+          {
+            "route": "JMtd",
+            "length": 464,
+            "difficulty": 84
+          },
+          {
+            "route": "JTod",
+            "length": 477,
+            "difficulty": 65
+          },
+          {
+            "route": "JSud",
+            "length": 483,
+            "difficulty": 88
+          },
+          {
+            "route": "JUsd",
+            "length": 483,
+            "difficulty": 88
+          },
+          {
+            "route": "JMtPod",
+            "length": 524,
+            "difficulty": 93
+          },
+          {
+            "route": "DSmd",
+            "length": 530,
+            "difficulty": 91
+          },
+          {
+            "route": "DMsd",
+            "length": 530,
+            "difficulty": 91
+          },
+          {
+            "route": "JSmd",
+            "length": 531,
+            "difficulty": 91
+          },
+          {
+            "route": "JPud",
+            "length": 532,
+            "difficulty": 91
+          },
+          {
+            "route": "JMsUod",
+            "length": 532,
+            "difficulty": 104
+          },
+          {
+            "route": "JUod",
+            "length": 534,
+            "difficulty": 88
+          },
+          {
+            "route": "JPsd",
+            "length": 534,
+            "difficulty": 80
+          },
+          {
+            "route": "JSod",
+            "length": 536,
+            "difficulty": 77
+          },
+          {
+            "route": "JTuSmd",
+            "length": 538,
+            "difficulty": 115
+          },
+          {
+            "route": "JMsUtd",
+            "length": 538,
+            "difficulty": 115
+          },
+          {
+            "route": "JOud",
+            "length": 545,
+            "difficulty": 95
+          },
+          {
+            "route": "JOsd",
+            "length": 547,
+            "difficulty": 84
+          },
+          {
+            "route": "JMpd",
+            "length": 557,
+            "difficulty": 91
+          },
+          {
+            "route": "JPmd",
+            "length": 557,
+            "difficulty": 91
+          },
+          {
+            "route": "JTpd",
+            "length": 575,
+            "difficulty": 84
+          },
+          {
+            "route": "JPtd",
+            "length": 575,
+            "difficulty": 84
+          },
+          {
+            "route": "JSmTud",
+            "length": 589,
+            "difficulty": 115
+          },
+          {
+            "route": "JUtMsd",
+            "length": 589,
+            "difficulty": 115
+          },
+          {
+            "route": "JMsUtPod",
+            "length": 598,
+            "difficulty": 123
+          },
+          {
+            "route": "JUtPod",
+            "length": 600,
+            "difficulty": 107
+          },
+          {
+            "route": "JMpTud",
+            "length": 601,
+            "difficulty": 119
+          },
+          {
+            "route": "JMtPud",
+            "length": 601,
+            "difficulty": 119
+          },
+          {
+            "route": "JStPod",
+            "length": 602,
+            "difficulty": 96
+          },
+          {
+            "route": "JMpTsd",
+            "length": 604,
+            "difficulty": 107
+          },
+          {
+            "route": "JMtPsd",
+            "length": 604,
+            "difficulty": 107
+          },
+          {
+            "route": "JSmPod",
+            "length": 605,
+            "difficulty": 96
+          },
+          {
+            "route": "JOpTud",
+            "length": 611,
+            "difficulty": 115
+          },
+          {
+            "route": "JOpTsd",
+            "length": 613,
+            "difficulty": 104
+          },
+          {
+            "route": "DUmd",
+            "length": 614,
+            "difficulty": 110
+          },
+          {
+            "route": "DMud",
+            "length": 614,
+            "difficulty": 110
+          },
+          {
+            "route": "JMsOud",
+            "length": 614,
+            "difficulty": 119
+          },
+          {
+            "route": "JUmd",
+            "length": 614,
+            "difficulty": 110
+          },
+          {
+            "route": "JOpMsd",
+            "length": 616,
+            "difficulty": 104
+          },
+          {
+            "route": "JMuSod",
+            "length": 619,
+            "difficulty": 111
+          },
+          {
+            "route": "JTsUmd",
+            "length": 624,
+            "difficulty": 122
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 69,
+            "difficulty": 11
+          },
+          {
+            "route": "Dd",
+            "length": 399,
+            "difficulty": 57
+          },
+          {
+            "route": "DSmd",
+            "length": 410,
+            "difficulty": 77
+          },
+          {
+            "route": "DMsd",
+            "length": 493,
+            "difficulty": 88
+          },
+          {
+            "route": "DUmd",
+            "length": 494,
+            "difficulty": 95
+          },
+          {
+            "route": "DUtd",
+            "length": 527,
+            "difficulty": 95
+          },
+          {
+            "route": "DStd",
+            "length": 530,
+            "difficulty": 84
+          },
+          {
+            "route": "DOpd",
+            "length": 543,
+            "difficulty": 77
+          },
+          {
+            "route": "DOmd",
+            "length": 547,
+            "difficulty": 84
+          },
+          {
+            "route": "DOtd",
+            "length": 565,
+            "difficulty": 77
+          },
+          {
+            "route": "DMud",
+            "length": 576,
+            "difficulty": 106
+          },
+          {
+            "route": "DTud",
+            "length": 610,
+            "difficulty": 106
+          },
+          {
+            "route": "DOpTmd",
+            "length": 612,
+            "difficulty": 104
+          },
+          {
+            "route": "DTsd",
+            "length": 612,
+            "difficulty": 95
+          },
+          {
+            "route": "DUpd",
+            "length": 620,
+            "difficulty": 102
+          },
+          {
+            "route": "DOuSmd",
+            "length": 620,
+            "difficulty": 115
+          },
+          {
+            "route": "DSpd",
+            "length": 622,
+            "difficulty": 91
+          },
+          {
+            "route": "DPod",
+            "length": 626,
+            "difficulty": 88
+          },
+          {
+            "route": "DMod",
+            "length": 629,
+            "difficulty": 95
+          },
+          {
+            "route": "DUsd",
+            "length": 630,
+            "difficulty": 102
+          },
+          {
+            "route": "DSud",
+            "length": 630,
+            "difficulty": 102
+          },
+          {
+            "route": "DMtd",
+            "length": 635,
+            "difficulty": 106
+          },
+          {
+            "route": "DTmd",
+            "length": 635,
+            "difficulty": 106
+          },
+          {
+            "route": "DUkEhd",
+            "length": 647,
+            "difficulty": 115
+          },
+          {
+            "route": "DTod",
+            "length": 648,
+            "difficulty": 88
+          },
+          {
+            "route": "DSkEhd",
+            "length": 649,
+            "difficulty": 104
+          },
+          {
+            "route": "DUod",
+            "length": 680,
+            "difficulty": 102
+          },
+          {
+            "route": "DSod",
+            "length": 683,
+            "difficulty": 91
+          },
+          {
+            "route": "DOpTuSmd",
+            "length": 686,
+            "difficulty": 135
+          },
+          {
+            "route": "DUtPmd",
+            "length": 689,
+            "difficulty": 130
+          },
+          {
+            "route": "DUpTmd",
+            "length": 689,
+            "difficulty": 130
+          },
+          {
+            "route": "DOud",
+            "length": 691,
+            "difficulty": 110
+          },
+          {
+            "route": "DStPmd",
+            "length": 692,
+            "difficulty": 119
+          },
+          {
+            "route": "DSpTmd",
+            "length": 692,
+            "difficulty": 119
+          },
+          {
+            "route": "DOsd",
+            "length": 694,
+            "difficulty": 99
+          },
+          {
+            "route": "DMtPod",
+            "length": 695,
+            "difficulty": 115
+          },
+          {
+            "route": "DSmUtd",
+            "length": 696,
+            "difficulty": 133
+          },
+          {
+            "route": "DUtSmd",
+            "length": 696,
+            "difficulty": 133
+          },
+          {
+            "route": "DOkEhd",
+            "length": 700,
+            "difficulty": 104
+          },
+          {
+            "route": "DUoSmd",
+            "length": 702,
+            "difficulty": 130
+          },
+          {
+            "route": "DPud",
+            "length": 703,
+            "difficulty": 114
+          },
+          {
+            "route": "DMsUod",
+            "length": 703,
+            "difficulty": 126
+          },
+          {
+            "route": "DPsd",
+            "length": 705,
+            "difficulty": 102
+          },
+          {
+            "route": "DOsUmd",
+            "length": 707,
+            "difficulty": 122
+          },
+          {
+            "route": "DTuSmd",
+            "length": 709,
+            "difficulty": 137
+          },
+          {
+            "route": "DMsUtd",
+            "length": 709,
+            "difficulty": 137
+          },
+          {
+            "route": "DOpSmd",
+            "length": 712,
+            "difficulty": 115
+          },
+          {
+            "route": "DSmPtd",
+            "length": 713,
+            "difficulty": 111
+          },
+          {
+            "route": "DSmTpd",
+            "length": 713,
+            "difficulty": 111
+          },
+          {
+            "route": "DSmOpd",
+            "length": 724,
+            "difficulty": 122
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 29,
+            "difficulty": 11
+          },
+          {
+            "route": "Dd",
+            "length": 311,
+            "difficulty": 53
+          },
+          {
+            "route": "DMsd",
+            "length": 405,
+            "difficulty": 84
+          },
+          {
+            "route": "DSmd",
+            "length": 452,
+            "difficulty": 88
+          },
+          {
+            "route": "DMud",
+            "length": 488,
+            "difficulty": 102
+          },
+          {
+            "route": "DTud",
+            "length": 522,
+            "difficulty": 102
+          },
+          {
+            "route": "DTsd",
+            "length": 524,
+            "difficulty": 91
+          },
+          {
+            "route": "DUmd",
+            "length": 536,
+            "difficulty": 106
+          },
+          {
+            "route": "DPod",
+            "length": 538,
+            "difficulty": 84
+          },
+          {
+            "route": "DMod",
+            "length": 541,
+            "difficulty": 91
+          },
+          {
+            "route": "DUsd",
+            "length": 542,
+            "difficulty": 99
+          },
+          {
+            "route": "DSud",
+            "length": 542,
+            "difficulty": 99
+          },
+          {
+            "route": "DMtd",
+            "length": 547,
+            "difficulty": 102
+          },
+          {
+            "route": "DTmd",
+            "length": 547,
+            "difficulty": 102
+          },
+          {
+            "route": "DTod",
+            "length": 560,
+            "difficulty": 84
+          },
+          {
+            "route": "DUtd",
+            "length": 569,
+            "difficulty": 106
+          },
+          {
+            "route": "DStd",
+            "length": 572,
+            "difficulty": 95
+          },
+          {
+            "route": "DOpd",
+            "length": 585,
+            "difficulty": 88
+          },
+          {
+            "route": "DOmd",
+            "length": 589,
+            "difficulty": 95
+          },
+          {
+            "route": "DUod",
+            "length": 592,
+            "difficulty": 99
+          },
+          {
+            "route": "DSod",
+            "length": 595,
+            "difficulty": 88
+          },
+          {
+            "route": "DOud",
+            "length": 603,
+            "difficulty": 106
+          },
+          {
+            "route": "DOsd",
+            "length": 606,
+            "difficulty": 95
+          },
+          {
+            "route": "DOtd",
+            "length": 607,
+            "difficulty": 88
+          },
+          {
+            "route": "DMtPod",
+            "length": 607,
+            "difficulty": 111
+          },
+          {
+            "route": "DPud",
+            "length": 615,
+            "difficulty": 110
+          },
+          {
+            "route": "DMsUod",
+            "length": 615,
+            "difficulty": 122
+          },
+          {
+            "route": "DPsd",
+            "length": 617,
+            "difficulty": 99
+          },
+          {
+            "route": "DMsUtd",
+            "length": 621,
+            "difficulty": 133
+          },
+          {
+            "route": "DTuSmd",
+            "length": 621,
+            "difficulty": 133
+          },
+          {
+            "route": "DMpd",
+            "length": 640,
+            "difficulty": 110
+          },
+          {
+            "route": "DPmd",
+            "length": 640,
+            "difficulty": 110
+          },
+          {
+            "route": "DHeKud",
+            "length": 641,
+            "difficulty": 122
+          },
+          {
+            "route": "DHeKsd",
+            "length": 644,
+            "difficulty": 111
+          },
+          {
+            "route": "DSmTud",
+            "length": 648,
+            "difficulty": 126
+          },
+          {
+            "route": "DUtMsd",
+            "length": 648,
+            "difficulty": 126
+          },
+          {
+            "route": "DOpTmd",
+            "length": 655,
+            "difficulty": 115
+          },
+          {
+            "route": "DPtd",
+            "length": 658,
+            "difficulty": 102
+          },
+          {
+            "route": "DTpd",
+            "length": 658,
+            "difficulty": 102
+          },
+          {
+            "route": "DUtPod",
+            "length": 658,
+            "difficulty": 119
+          },
+          {
+            "route": "DStPod",
+            "length": 661,
+            "difficulty": 107
+          },
+          {
+            "route": "DUpd",
+            "length": 662,
+            "difficulty": 114
+          },
+          {
+            "route": "DOuSmd",
+            "length": 662,
+            "difficulty": 126
+          },
+          {
+            "route": "DSmPod",
+            "length": 664,
+            "difficulty": 107
+          },
+          {
+            "route": "DSpd",
+            "length": 664,
+            "difficulty": 102
+          },
+          {
+            "route": "DHeKmd",
+            "length": 666,
+            "difficulty": 122
+          },
+          {
+            "route": "DOpTud",
+            "length": 669,
+            "difficulty": 126
+          },
+          {
+            "route": "DOpTsd",
+            "length": 672,
+            "difficulty": 115
+          },
+          {
+            "route": "DOpMsd",
+            "length": 675,
+            "difficulty": 115
+          },
+          {
+            "route": "DMsUtPod",
+            "length": 681,
+            "difficulty": 142
+          }
+        ],
+        [
+          {
+            "route": "D",
+            "length": 110,
+            "difficulty": 17
+          },
+          {
+            "route": "DSm",
+            "length": 290,
+            "difficulty": 63
+          },
+          {
+            "route": "DSu",
+            "length": 352,
+            "difficulty": 70
+          },
+          {
+            "route": "DUs",
+            "length": 352,
+            "difficulty": 70
+          },
+          {
+            "route": "DMs",
+            "length": 364,
+            "difficulty": 67
+          },
+          {
+            "route": "DUm",
+            "length": 374,
+            "difficulty": 81
+          },
+          {
+            "route": "DUo",
+            "length": 402,
+            "difficulty": 70
+          },
+          {
+            "route": "DOu",
+            "length": 402,
+            "difficulty": 70
+          },
+          {
+            "route": "DSo",
+            "length": 405,
+            "difficulty": 59
+          },
+          {
+            "route": "DOs",
+            "length": 405,
+            "difficulty": 59
+          },
+          {
+            "route": "DUt",
+            "length": 408,
+            "difficulty": 81
+          },
+          {
+            "route": "DSt",
+            "length": 410,
+            "difficulty": 70
+          },
+          {
+            "route": "DOp",
+            "length": 424,
+            "difficulty": 63
+          },
+          {
+            "route": "DOm",
+            "length": 427,
+            "difficulty": 70
+          },
+          {
+            "route": "DOt",
+            "length": 446,
+            "difficulty": 63
+          },
+          {
+            "route": "DMu",
+            "length": 448,
+            "difficulty": 85
+          },
+          {
+            "route": "DSmTu",
+            "length": 457,
+            "difficulty": 98
+          },
+          {
+            "route": "DUtMs",
+            "length": 457,
+            "difficulty": 98
+          },
+          {
+            "route": "DUtPo",
+            "length": 468,
+            "difficulty": 90
+          },
+          {
+            "route": "DOpTu",
+            "length": 468,
+            "difficulty": 90
+          },
+          {
+            "route": "DStPo",
+            "length": 471,
+            "difficulty": 79
+          },
+          {
+            "route": "DOpTs",
+            "length": 471,
+            "difficulty": 79
+          },
+          {
+            "route": "DSmPo",
+            "length": 473,
+            "difficulty": 79
+          },
+          {
+            "route": "DOpMs",
+            "length": 473,
+            "difficulty": 79
+          },
+          {
+            "route": "DTu",
+            "length": 481,
+            "difficulty": 85
+          },
+          {
+            "route": "DTs",
+            "length": 484,
+            "difficulty": 74
+          },
+          {
+            "route": "DOpTm",
+            "length": 493,
+            "difficulty": 90
+          },
+          {
+            "route": "DSmTo",
+            "length": 495,
+            "difficulty": 79
+          },
+          {
+            "route": "DOtMs",
+            "length": 495,
+            "difficulty": 79
+          },
+          {
+            "route": "DPo",
+            "length": 497,
+            "difficulty": 67
+          },
+          {
+            "route": "DMo",
+            "length": 501,
+            "difficulty": 74
+          },
+          {
+            "route": "DUp",
+            "length": 501,
+            "difficulty": 89
+          },
+          {
+            "route": "DOuSm",
+            "length": 501,
+            "difficulty": 101
+          },
+          {
+            "route": "DSp",
+            "length": 503,
+            "difficulty": 78
+          },
+          {
+            "route": "DMt",
+            "length": 506,
+            "difficulty": 85
+          },
+          {
+            "route": "DTm",
+            "length": 506,
+            "difficulty": 85
+          },
+          {
+            "route": "DTo",
+            "length": 519,
+            "difficulty": 67
+          },
+          {
+            "route": "DStMu",
+            "length": 544,
+            "difficulty": 105
+          },
+          {
+            "route": "DUmTs",
+            "length": 544,
+            "difficulty": 105
+          },
+          {
+            "route": "DSpTu",
+            "length": 547,
+            "difficulty": 105
+          },
+          {
+            "route": "DUpTs",
+            "length": 547,
+            "difficulty": 105
+          },
+          {
+            "route": "DStPu",
+            "length": 547,
+            "difficulty": 105
+          },
+          {
+            "route": "DUtPs",
+            "length": 547,
+            "difficulty": 105
+          },
+          {
+            "route": "DSmPu",
+            "length": 550,
+            "difficulty": 105
+          },
+          {
+            "route": "DUpMs",
+            "length": 550,
+            "difficulty": 105
+          },
+          {
+            "route": "DOpMu",
+            "length": 557,
+            "difficulty": 98
+          },
+          {
+            "route": "DUmPo",
+            "length": 557,
+            "difficulty": 98
+          },
+          {
+            "route": "DMtPo",
+            "length": 566,
+            "difficulty": 94
+          },
+          {
+            "route": "DOpTuSm",
+            "length": 567,
+            "difficulty": 121
+          },
+          {
+            "route": "DUpTm",
+            "length": 570,
+            "difficulty": 116
+          }
+        ],
+        [
+          {
+            "route": "U",
+            "length": 328,
+            "difficulty": 51
+          },
+          {
+            "route": "S",
+            "length": 330,
+            "difficulty": 40
+          },
+          {
+            "route": "O",
+            "length": 381,
+            "difficulty": 40
+          },
+          {
+            "route": "SmT",
+            "length": 436,
+            "difficulty": 67
+          },
+          {
+            "route": "OpT",
+            "length": 446,
+            "difficulty": 59
+          },
+          {
+            "route": "dDHeK",
+            "length": 459,
+            "difficulty": 86
+          },
+          {
+            "route": "SmU",
+            "length": 497,
+            "difficulty": 89
+          },
+          {
+            "route": "SmHeK",
+            "length": 498,
+            "difficulty": 94
+          },
+          {
+            "route": "UtM",
+            "length": 520,
+            "difficulty": 85
+          },
+          {
+            "route": "UmT",
+            "length": 520,
+            "difficulty": 85
+          },
+          {
+            "route": "StM",
+            "length": 522,
+            "difficulty": 74
+          },
+          {
+            "route": "UpT",
+            "length": 523,
+            "difficulty": 85
+          },
+          {
+            "route": "UtP",
+            "length": 523,
+            "difficulty": 85
+          },
+          {
+            "route": "SpT",
+            "length": 525,
+            "difficulty": 74
+          },
+          {
+            "route": "StP",
+            "length": 525,
+            "difficulty": 74
+          },
+          {
+            "route": "SmP",
+            "length": 528,
+            "difficulty": 74
+          },
+          {
+            "route": "OpM",
+            "length": 536,
+            "difficulty": 67
+          },
+          {
+            "route": "OsU",
+            "length": 541,
+            "difficulty": 78
+          },
+          {
+            "route": "OuS",
+            "length": 541,
+            "difficulty": 78
+          },
+          {
+            "route": "OtM",
+            "length": 557,
+            "difficulty": 67
+          },
+          {
+            "route": "OtP",
+            "length": 561,
+            "difficulty": 67
+          },
+          {
+            "route": "SmO",
+            "length": 561,
+            "difficulty": 85
+          },
+          {
+            "route": "OmT",
+            "length": 573,
+            "difficulty": 74
+          },
+          {
+            "route": "UmHeK",
+            "length": 582,
+            "difficulty": 112
+          },
+          {
+            "route": "UmS",
+            "length": 583,
+            "difficulty": 96
+          },
+          {
+            "route": "dDM",
+            "length": 596,
+            "difficulty": 81
+          },
+          {
+            "route": "OpTsU",
+            "length": 606,
+            "difficulty": 98
+          },
+          {
+            "route": "OpTuS",
+            "length": 606,
+            "difficulty": 98
+          },
+          {
+            "route": "OpMsU",
+            "length": 609,
+            "difficulty": 98
+          },
+          {
+            "route": "UpM",
+            "length": 612,
+            "difficulty": 93
+          },
+          {
+            "route": "UmP",
+            "length": 612,
+            "difficulty": 93
+          },
+          {
+            "route": "SpM",
+            "length": 615,
+            "difficulty": 81
+          },
+          {
+            "route": "UtHeK",
+            "length": 616,
+            "difficulty": 112
+          },
+          {
+            "route": "UtS",
+            "length": 617,
+            "difficulty": 96
+          },
+          {
+            "route": "StU",
+            "length": 617,
+            "difficulty": 96
+          },
+          {
+            "route": "StHeK",
+            "length": 618,
+            "difficulty": 101
+          },
+          {
+            "route": "UsO",
+            "length": 622,
+            "difficulty": 93
+          },
+          {
+            "route": "SuO",
+            "length": 622,
+            "difficulty": 93
+          },
+          {
+            "route": "UoS",
+            "length": 622,
+            "difficulty": 93
+          },
+          {
+            "route": "SoU",
+            "length": 622,
+            "difficulty": 93
+          },
+          {
+            "route": "SmOpT",
+            "length": 627,
+            "difficulty": 105
+          },
+          {
+            "route": "dDT",
+            "length": 629,
+            "difficulty": 81
+          },
+          {
+            "route": "OpU",
+            "length": 630,
+            "difficulty": 89
+          },
+          {
+            "route": "OtMsU",
+            "length": 631,
+            "difficulty": 98
+          },
+          {
+            "route": "OpHeK",
+            "length": 632,
+            "difficulty": 94
+          },
+          {
+            "route": "OpS",
+            "length": 633,
+            "difficulty": 78
+          },
+          {
+            "route": "OmU",
+            "length": 634,
+            "difficulty": 96
+          },
+          {
+            "route": "OmHeK",
+            "length": 635,
+            "difficulty": 101
+          },
+          {
+            "route": "OmS",
+            "length": 636,
+            "difficulty": 85
+          },
+          {
+            "route": "SmdDHeK",
+            "length": 640,
+            "difficulty": 132
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 322,
+            "difficulty": 30
+          },
+          {
+            "route": "uO",
+            "length": 358,
+            "difficulty": 60
+          },
+          {
+            "route": "sO",
+            "length": 360,
+            "difficulty": 49
+          },
+          {
+            "route": "mO",
+            "length": 383,
+            "difficulty": 60
+          },
+          {
+            "route": "tP",
+            "length": 388,
+            "difficulty": 49
+          },
+          {
+            "route": "tO",
+            "length": 416,
+            "difficulty": 60
+          },
+          {
+            "route": "kEhO",
+            "length": 435,
+            "difficulty": 73
+          },
+          {
+            "route": "uSmO",
+            "length": 457,
+            "difficulty": 91
+          },
+          {
+            "route": "tMsO",
+            "length": 466,
+            "difficulty": 77
+          },
+          {
+            "route": "mP",
+            "length": 477,
+            "difficulty": 57
+          },
+          {
+            "route": "uS",
+            "length": 482,
+            "difficulty": 68
+          },
+          {
+            "route": "sU",
+            "length": 482,
+            "difficulty": 68
+          },
+          {
+            "route": "kEhdDO",
+            "length": 490,
+            "difficulty": 96
+          },
+          {
+            "route": "mT",
+            "length": 499,
+            "difficulty": 57
+          },
+          {
+            "route": "pT",
+            "length": 503,
+            "difficulty": 57
+          },
+          {
+            "route": "pO",
+            "length": 509,
+            "difficulty": 68
+          },
+          {
+            "route": "tM",
+            "length": 514,
+            "difficulty": 64
+          },
+          {
+            "route": "kEhMsO",
+            "length": 529,
+            "difficulty": 104
+          },
+          {
+            "route": "sUmO",
+            "length": 543,
+            "difficulty": 99
+          },
+          {
+            "route": "uStP",
+            "length": 548,
+            "difficulty": 88
+          },
+          {
+            "route": "sUtP",
+            "length": 548,
+            "difficulty": 88
+          },
+          {
+            "route": "tMuO",
+            "length": 550,
+            "difficulty": 95
+          },
+          {
+            "route": "mTuO",
+            "length": 550,
+            "difficulty": 95
+          },
+          {
+            "route": "uSmP",
+            "length": 551,
+            "difficulty": 88
+          },
+          {
+            "route": "mTsO",
+            "length": 552,
+            "difficulty": 84
+          },
+          {
+            "route": "pTuO",
+            "length": 553,
+            "difficulty": 95
+          },
+          {
+            "route": "tPuO",
+            "length": 553,
+            "difficulty": 95
+          },
+          {
+            "route": "pTsO",
+            "length": 556,
+            "difficulty": 84
+          },
+          {
+            "route": "tPsO",
+            "length": 556,
+            "difficulty": 84
+          },
+          {
+            "route": "pMsO",
+            "length": 559,
+            "difficulty": 84
+          },
+          {
+            "route": "uSmT",
+            "length": 573,
+            "difficulty": 88
+          },
+          {
+            "route": "kEhP",
+            "length": 574,
+            "difficulty": 84
+          },
+          {
+            "route": "mU",
+            "length": 576,
+            "difficulty": 86
+          },
+          {
+            "route": "uStO",
+            "length": 576,
+            "difficulty": 99
+          },
+          {
+            "route": "sUtO",
+            "length": 576,
+            "difficulty": 99
+          },
+          {
+            "route": "kEhM",
+            "length": 577,
+            "difficulty": 91
+          },
+          {
+            "route": "mS",
+            "length": 578,
+            "difficulty": 75
+          },
+          {
+            "route": "pTmO",
+            "length": 578,
+            "difficulty": 95
+          },
+          {
+            "route": "tPmO",
+            "length": 578,
+            "difficulty": 95
+          },
+          {
+            "route": "tMsU",
+            "length": 588,
+            "difficulty": 95
+          },
+          {
+            "route": "kEhT",
+            "length": 595,
+            "difficulty": 84
+          },
+          {
+            "route": "pM",
+            "length": 607,
+            "difficulty": 72
+          },
+          {
+            "route": "tU",
+            "length": 609,
+            "difficulty": 86
+          },
+          {
+            "route": "tS",
+            "length": 611,
+            "difficulty": 75
+          },
+          {
+            "route": "kEhMuO",
+            "length": 613,
+            "difficulty": 122
+          },
+          {
+            "route": "mSuO",
+            "length": 614,
+            "difficulty": 106
+          },
+          {
+            "route": "mUsO",
+            "length": 614,
+            "difficulty": 106
+          },
+          {
+            "route": "oU",
+            "length": 614,
+            "difficulty": 83
+          },
+          {
+            "route": "oS",
+            "length": 617,
+            "difficulty": 72
+          },
+          {
+            "route": "mdDO",
+            "length": 626,
+            "difficulty": 91
+          }
+        ],
+        [
+          {
+            "route": "oS",
+            "length": 142,
+            "difficulty": 35
+          },
+          {
+            "route": "-",
+            "length": 191,
+            "difficulty": 22
+          },
+          {
+            "route": "oU",
+            "length": 226,
+            "difficulty": 53
+          },
+          {
+            "route": "pM",
+            "length": 241,
+            "difficulty": 35
+          },
+          {
+            "route": "pT",
+            "length": 256,
+            "difficulty": 42
+          },
+          {
+            "route": "tM",
+            "length": 262,
+            "difficulty": 35
+          },
+          {
+            "route": "uS",
+            "length": 264,
+            "difficulty": 53
+          },
+          {
+            "route": "oUtM",
+            "length": 313,
+            "difficulty": 73
+          },
+          {
+            "route": "oStM",
+            "length": 316,
+            "difficulty": 62
+          },
+          {
+            "route": "pTuS",
+            "length": 330,
+            "difficulty": 73
+          },
+          {
+            "route": "oSmT",
+            "length": 334,
+            "difficulty": 69
+          },
+          {
+            "route": "sU",
+            "length": 351,
+            "difficulty": 60
+          },
+          {
+            "route": "pS",
+            "length": 356,
+            "difficulty": 53
+          },
+          {
+            "route": "mS",
+            "length": 360,
+            "difficulty": 60
+          },
+          {
+            "route": "tP",
+            "length": 371,
+            "difficulty": 49
+          },
+          {
+            "route": "tS",
+            "length": 378,
+            "difficulty": 53
+          },
+          {
+            "route": "mT",
+            "length": 383,
+            "difficulty": 57
+          },
+          {
+            "route": "odDM",
+            "length": 389,
+            "difficulty": 69
+          },
+          {
+            "route": "oSmU",
+            "length": 395,
+            "difficulty": 91
+          },
+          {
+            "route": "oUmS",
+            "length": 395,
+            "difficulty": 91
+          },
+          {
+            "route": "oUpM",
+            "length": 406,
+            "difficulty": 80
+          },
+          {
+            "route": "oSpM",
+            "length": 408,
+            "difficulty": 69
+          },
+          {
+            "route": "pTsU",
+            "length": 416,
+            "difficulty": 80
+          },
+          {
+            "route": "oUmT",
+            "length": 418,
+            "difficulty": 88
+          },
+          {
+            "route": "pMsU",
+            "length": 419,
+            "difficulty": 80
+          },
+          {
+            "route": "pMuS",
+            "length": 419,
+            "difficulty": 80
+          },
+          {
+            "route": "oUpT",
+            "length": 422,
+            "difficulty": 88
+          },
+          {
+            "route": "oUtP",
+            "length": 422,
+            "difficulty": 88
+          },
+          {
+            "route": "oSpT",
+            "length": 424,
+            "difficulty": 77
+          },
+          {
+            "route": "oStP",
+            "length": 424,
+            "difficulty": 77
+          },
+          {
+            "route": "pTmS",
+            "length": 426,
+            "difficulty": 80
+          },
+          {
+            "route": "oSmP",
+            "length": 427,
+            "difficulty": 77
+          },
+          {
+            "route": "oUtS",
+            "length": 429,
+            "difficulty": 91
+          },
+          {
+            "route": "uStM",
+            "length": 438,
+            "difficulty": 80
+          },
+          {
+            "route": "sUtM",
+            "length": 438,
+            "difficulty": 80
+          },
+          {
+            "route": "pU",
+            "length": 440,
+            "difficulty": 72
+          },
+          {
+            "route": "tMsU",
+            "length": 441,
+            "difficulty": 80
+          },
+          {
+            "route": "tMuS",
+            "length": 441,
+            "difficulty": 80
+          },
+          {
+            "route": "mU",
+            "length": 444,
+            "difficulty": 79
+          },
+          {
+            "route": "tPuS",
+            "length": 445,
+            "difficulty": 80
+          },
+          {
+            "route": "pToS",
+            "length": 449,
+            "difficulty": 69
+          },
+          {
+            "route": "tPoS",
+            "length": 449,
+            "difficulty": 69
+          },
+          {
+            "route": "uSmT",
+            "length": 456,
+            "difficulty": 88
+          },
+          {
+            "route": "mTuS",
+            "length": 456,
+            "difficulty": 88
+          },
+          {
+            "route": "odDS",
+            "length": 461,
+            "difficulty": 73
+          },
+          {
+            "route": "tU",
+            "length": 462,
+            "difficulty": 72
+          },
+          {
+            "route": "mP",
+            "length": 475,
+            "difficulty": 64
+          },
+          {
+            "route": "uO",
+            "length": 483,
+            "difficulty": 75
+          },
+          {
+            "route": "sO",
+            "length": 485,
+            "difficulty": 64
+          },
+          {
+            "route": "pO",
+            "length": 504,
+            "difficulty": 68
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 90,
+            "difficulty": 15
+          },
+          {
+            "route": "sU",
+            "length": 164,
+            "difficulty": 46
+          },
+          {
+            "route": "mT",
+            "length": 177,
+            "difficulty": 35
+          },
+          {
+            "route": "mU",
+            "length": 238,
+            "difficulty": 57
+          },
+          {
+            "route": "mS",
+            "length": 241,
+            "difficulty": 46
+          },
+          {
+            "route": "uS",
+            "length": 250,
+            "difficulty": 53
+          },
+          {
+            "route": "mP",
+            "length": 270,
+            "difficulty": 42
+          },
+          {
+            "route": "tM",
+            "length": 282,
+            "difficulty": 49
+          },
+          {
+            "route": "tP",
+            "length": 286,
+            "difficulty": 49
+          },
+          {
+            "route": "pT",
+            "length": 286,
+            "difficulty": 49
+          },
+          {
+            "route": "sO",
+            "length": 298,
+            "difficulty": 49
+          },
+          {
+            "route": "mO",
+            "length": 302,
+            "difficulty": 53
+          },
+          {
+            "route": "mTuS",
+            "length": 337,
+            "difficulty": 73
+          },
+          {
+            "route": "mTsU",
+            "length": 337,
+            "difficulty": 73
+          },
+          {
+            "route": "uSmT",
+            "length": 356,
+            "difficulty": 80
+          },
+          {
+            "route": "tMsU",
+            "length": 356,
+            "difficulty": 80
+          },
+          {
+            "route": "sUtM",
+            "length": 356,
+            "difficulty": 80
+          },
+          {
+            "route": "sUmT",
+            "length": 356,
+            "difficulty": 80
+          },
+          {
+            "route": "sUpT",
+            "length": 359,
+            "difficulty": 80
+          },
+          {
+            "route": "sUtP",
+            "length": 359,
+            "difficulty": 80
+          },
+          {
+            "route": "sOpT",
+            "length": 364,
+            "difficulty": 69
+          },
+          {
+            "route": "mOpT",
+            "length": 368,
+            "difficulty": 73
+          },
+          {
+            "route": "pM",
+            "length": 375,
+            "difficulty": 57
+          },
+          {
+            "route": "tU",
+            "length": 377,
+            "difficulty": 72
+          },
+          {
+            "route": "tS",
+            "length": 379,
+            "difficulty": 60
+          },
+          {
+            "route": "oU",
+            "length": 382,
+            "difficulty": 68
+          },
+          {
+            "route": "uO",
+            "length": 382,
+            "difficulty": 68
+          },
+          {
+            "route": "oS",
+            "length": 385,
+            "difficulty": 57
+          },
+          {
+            "route": "mPuS",
+            "length": 430,
+            "difficulty": 80
+          },
+          {
+            "route": "mPsU",
+            "length": 430,
+            "difficulty": 80
+          },
+          {
+            "route": "mPoU",
+            "length": 432,
+            "difficulty": 80
+          },
+          {
+            "route": "mUpT",
+            "length": 434,
+            "difficulty": 91
+          },
+          {
+            "route": "mUtP",
+            "length": 434,
+            "difficulty": 91
+          },
+          {
+            "route": "mPoS",
+            "length": 435,
+            "difficulty": 69
+          },
+          {
+            "route": "mSpT",
+            "length": 436,
+            "difficulty": 80
+          },
+          {
+            "route": "mStP",
+            "length": 436,
+            "difficulty": 80
+          },
+          {
+            "route": "tO",
+            "length": 441,
+            "difficulty": 68
+          },
+          {
+            "route": "tMuS",
+            "length": 442,
+            "difficulty": 88
+          },
+          {
+            "route": "uStM",
+            "length": 442,
+            "difficulty": 88
+          },
+          {
+            "route": "tPuS",
+            "length": 446,
+            "difficulty": 88
+          },
+          {
+            "route": "pTsU",
+            "length": 446,
+            "difficulty": 88
+          },
+          {
+            "route": "uSpT",
+            "length": 446,
+            "difficulty": 88
+          },
+          {
+            "route": "tPsU",
+            "length": 446,
+            "difficulty": 88
+          },
+          {
+            "route": "pTuS",
+            "length": 446,
+            "difficulty": 88
+          },
+          {
+            "route": "uStP",
+            "length": 446,
+            "difficulty": 88
+          },
+          {
+            "route": "uOpT",
+            "length": 448,
+            "difficulty": 88
+          },
+          {
+            "route": "tPoU",
+            "length": 448,
+            "difficulty": 88
+          },
+          {
+            "route": "uSmP",
+            "length": 449,
+            "difficulty": 88
+          },
+          {
+            "route": "sUmP",
+            "length": 449,
+            "difficulty": 88
+          },
+          {
+            "route": "pMsU",
+            "length": 449,
+            "difficulty": 88
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 54,
+            "difficulty": 15
+          },
+          {
+            "route": "mT",
+            "length": 206,
+            "difficulty": 38
+          },
+          {
+            "route": "pT",
+            "length": 210,
+            "difficulty": 38
+          },
+          {
+            "route": "uS",
+            "length": 214,
+            "difficulty": 53
+          },
+          {
+            "route": "sU",
+            "length": 214,
+            "difficulty": 53
+          },
+          {
+            "route": "tP",
+            "length": 234,
+            "difficulty": 42
+          },
+          {
+            "route": "tM",
+            "length": 246,
+            "difficulty": 49
+          },
+          {
+            "route": "uSmT",
+            "length": 280,
+            "difficulty": 69
+          },
+          {
+            "route": "mU",
+            "length": 307,
+            "difficulty": 72
+          },
+          {
+            "route": "mS",
+            "length": 310,
+            "difficulty": 60
+          },
+          {
+            "route": "tMsU",
+            "length": 320,
+            "difficulty": 80
+          },
+          {
+            "route": "mP",
+            "length": 324,
+            "difficulty": 49
+          },
+          {
+            "route": "uO",
+            "length": 331,
+            "difficulty": 60
+          },
+          {
+            "route": "sO",
+            "length": 334,
+            "difficulty": 49
+          },
+          {
+            "route": "pM",
+            "length": 339,
+            "difficulty": 57
+          },
+          {
+            "route": "tU",
+            "length": 341,
+            "difficulty": 72
+          },
+          {
+            "route": "tS",
+            "length": 343,
+            "difficulty": 60
+          },
+          {
+            "route": "oU",
+            "length": 346,
+            "difficulty": 68
+          },
+          {
+            "route": "oS",
+            "length": 349,
+            "difficulty": 57
+          },
+          {
+            "route": "mO",
+            "length": 356,
+            "difficulty": 60
+          },
+          {
+            "route": "sUmT",
+            "length": 366,
+            "difficulty": 77
+          },
+          {
+            "route": "uSpT",
+            "length": 370,
+            "difficulty": 77
+          },
+          {
+            "route": "sUpT",
+            "length": 370,
+            "difficulty": 77
+          },
+          {
+            "route": "uOpT",
+            "length": 372,
+            "difficulty": 77
+          },
+          {
+            "route": "sOpT",
+            "length": 375,
+            "difficulty": 65
+          },
+          {
+            "route": "tO",
+            "length": 390,
+            "difficulty": 60
+          },
+          {
+            "route": "uStP",
+            "length": 394,
+            "difficulty": 80
+          },
+          {
+            "route": "sUtP",
+            "length": 394,
+            "difficulty": 80
+          },
+          {
+            "route": "mOpT",
+            "length": 397,
+            "difficulty": 77
+          },
+          {
+            "route": "uSmP",
+            "length": 397,
+            "difficulty": 80
+          },
+          {
+            "route": "mTuS",
+            "length": 406,
+            "difficulty": 88
+          },
+          {
+            "route": "uStM",
+            "length": 406,
+            "difficulty": 88
+          },
+          {
+            "route": "tMuS",
+            "length": 406,
+            "difficulty": 88
+          },
+          {
+            "route": "sUtM",
+            "length": 406,
+            "difficulty": 88
+          },
+          {
+            "route": "mTsU",
+            "length": 406,
+            "difficulty": 88
+          },
+          {
+            "route": "tPuS",
+            "length": 410,
+            "difficulty": 88
+          },
+          {
+            "route": "pTuS",
+            "length": 410,
+            "difficulty": 88
+          },
+          {
+            "route": "tPsU",
+            "length": 410,
+            "difficulty": 88
+          },
+          {
+            "route": "pTsU",
+            "length": 410,
+            "difficulty": 88
+          },
+          {
+            "route": "tPoU",
+            "length": 412,
+            "difficulty": 88
+          },
+          {
+            "route": "pMsU",
+            "length": 413,
+            "difficulty": 88
+          },
+          {
+            "route": "tPoS",
+            "length": 415,
+            "difficulty": 77
+          },
+          {
+            "route": "oSmT",
+            "length": 415,
+            "difficulty": 73
+          },
+          {
+            "route": "uSmO",
+            "length": 430,
+            "difficulty": 91
+          },
+          {
+            "route": "pU",
+            "length": 434,
+            "difficulty": 79
+          },
+          {
+            "route": "pS",
+            "length": 436,
+            "difficulty": 68
+          },
+          {
+            "route": "tMsO",
+            "length": 439,
+            "difficulty": 77
+          },
+          {
+            "route": "mUpT",
+            "length": 463,
+            "difficulty": 95
+          },
+          {
+            "route": "mSpT",
+            "length": 465,
+            "difficulty": 84
+          },
+          {
+            "route": "uSmOpT",
+            "length": 471,
+            "difficulty": 107
+          }
+        ],
+        [
+          {
+            "route": "tP",
+            "length": 86,
+            "difficulty": 27
+          },
+          {
+            "route": "-",
+            "length": 109,
+            "difficulty": 19
+          },
+          {
+            "route": "mP",
+            "length": 216,
+            "difficulty": 46
+          },
+          {
+            "route": "tM",
+            "length": 276,
+            "difficulty": 49
+          },
+          {
+            "route": "sU",
+            "length": 284,
+            "difficulty": 64
+          },
+          {
+            "route": "uS",
+            "length": 284,
+            "difficulty": 64
+          },
+          {
+            "route": "uStP",
+            "length": 286,
+            "difficulty": 77
+          },
+          {
+            "route": "sUtP",
+            "length": 286,
+            "difficulty": 77
+          },
+          {
+            "route": "uO",
+            "length": 287,
+            "difficulty": 64
+          },
+          {
+            "route": "sO",
+            "length": 289,
+            "difficulty": 53
+          },
+          {
+            "route": "uSmP",
+            "length": 289,
+            "difficulty": 77
+          },
+          {
+            "route": "pT",
+            "length": 289,
+            "difficulty": 46
+          },
+          {
+            "route": "mT",
+            "length": 301,
+            "difficulty": 53
+          },
+          {
+            "route": "tO",
+            "length": 305,
+            "difficulty": 53
+          },
+          {
+            "route": "mO",
+            "length": 312,
+            "difficulty": 64
+          },
+          {
+            "route": "tMsU",
+            "length": 350,
+            "difficulty": 80
+          },
+          {
+            "route": "tMsO",
+            "length": 355,
+            "difficulty": 69
+          },
+          {
+            "route": "tU",
+            "length": 371,
+            "difficulty": 72
+          },
+          {
+            "route": "tS",
+            "length": 373,
+            "difficulty": 60
+          },
+          {
+            "route": "uSmT",
+            "length": 375,
+            "difficulty": 84
+          },
+          {
+            "route": "sUmP",
+            "length": 376,
+            "difficulty": 84
+          },
+          {
+            "route": "mU",
+            "length": 377,
+            "difficulty": 83
+          },
+          {
+            "route": "tSmP",
+            "length": 379,
+            "difficulty": 73
+          },
+          {
+            "route": "mUtP",
+            "length": 379,
+            "difficulty": 95
+          },
+          {
+            "route": "mS",
+            "length": 380,
+            "difficulty": 72
+          },
+          {
+            "route": "mStP",
+            "length": 382,
+            "difficulty": 84
+          },
+          {
+            "route": "uSmO",
+            "length": 385,
+            "difficulty": 95
+          },
+          {
+            "route": "pM",
+            "length": 394,
+            "difficulty": 60
+          },
+          {
+            "route": "oU",
+            "length": 401,
+            "difficulty": 72
+          },
+          {
+            "route": "uOtP",
+            "length": 403,
+            "difficulty": 84
+          },
+          {
+            "route": "oUtP",
+            "length": 403,
+            "difficulty": 84
+          },
+          {
+            "route": "oS",
+            "length": 404,
+            "difficulty": 60
+          },
+          {
+            "route": "oStP",
+            "length": 406,
+            "difficulty": 73
+          },
+          {
+            "route": "sOtP",
+            "length": 406,
+            "difficulty": 73
+          },
+          {
+            "route": "oSmP",
+            "length": 409,
+            "difficulty": 73
+          },
+          {
+            "route": "pO",
+            "length": 423,
+            "difficulty": 64
+          },
+          {
+            "route": "mOtP",
+            "length": 428,
+            "difficulty": 84
+          },
+          {
+            "route": "tMuS",
+            "length": 436,
+            "difficulty": 88
+          },
+          {
+            "route": "tMuO",
+            "length": 439,
+            "difficulty": 88
+          },
+          {
+            "route": "tPsU",
+            "length": 440,
+            "difficulty": 88
+          },
+          {
+            "route": "tPuS",
+            "length": 440,
+            "difficulty": 88
+          },
+          {
+            "route": "tPuO",
+            "length": 442,
+            "difficulty": 88
+          },
+          {
+            "route": "tPoU",
+            "length": 442,
+            "difficulty": 88
+          },
+          {
+            "route": "tPsO",
+            "length": 445,
+            "difficulty": 77
+          },
+          {
+            "route": "tPoS",
+            "length": 445,
+            "difficulty": 77
+          },
+          {
+            "route": "sUmT",
+            "length": 461,
+            "difficulty": 91
+          },
+          {
+            "route": "tUmP",
+            "length": 462,
+            "difficulty": 91
+          },
+          {
+            "route": "sUpT",
+            "length": 464,
+            "difficulty": 91
+          },
+          {
+            "route": "uSpT",
+            "length": 464,
+            "difficulty": 91
+          },
+          {
+            "route": "pTuS",
+            "length": 464,
+            "difficulty": 91
+          }
+        ],
+        [
+          {
+            "route": "pH",
+            "length": 315,
+            "difficulty": 42
+          },
+          {
+            "route": "kE",
+            "length": 370,
+            "difficulty": 53
+          },
+          {
+            "route": "pTkE",
+            "length": 373,
+            "difficulty": 65
+          },
+          {
+            "route": "mH",
+            "length": 382,
+            "difficulty": 57
+          },
+          {
+            "route": "pTmH",
+            "length": 384,
+            "difficulty": 69
+          },
+          {
+            "route": "tH",
+            "length": 400,
+            "difficulty": 49
+          },
+          {
+            "route": "odDH",
+            "length": 421,
+            "difficulty": 69
+          },
+          {
+            "route": "uSmH",
+            "length": 456,
+            "difficulty": 88
+          },
+          {
+            "route": "pdDH",
+            "length": 456,
+            "difficulty": 80
+          },
+          {
+            "route": "pTuSmH",
+            "length": 458,
+            "difficulty": 100
+          },
+          {
+            "route": "oSmH",
+            "length": 461,
+            "difficulty": 77
+          },
+          {
+            "route": "pMkE",
+            "length": 462,
+            "difficulty": 73
+          },
+          {
+            "route": "pSmH",
+            "length": 484,
+            "difficulty": 80
+          },
+          {
+            "route": "udDH",
+            "length": 498,
+            "difficulty": 95
+          },
+          {
+            "route": "pTudDH",
+            "length": 500,
+            "difficulty": 107
+          },
+          {
+            "route": "sdDH",
+            "length": 501,
+            "difficulty": 84
+          },
+          {
+            "route": "pTsdDH",
+            "length": 503,
+            "difficulty": 96
+          },
+          {
+            "route": "pMsdDH",
+            "length": 506,
+            "difficulty": 96
+          },
+          {
+            "route": "pMtH",
+            "length": 507,
+            "difficulty": 77
+          },
+          {
+            "route": "mdDH",
+            "length": 523,
+            "difficulty": 95
+          },
+          {
+            "route": "pTmdDH",
+            "length": 525,
+            "difficulty": 107
+          },
+          {
+            "route": "uSkE",
+            "length": 530,
+            "difficulty": 91
+          },
+          {
+            "route": "sUkE",
+            "length": 530,
+            "difficulty": 91
+          },
+          {
+            "route": "pTuSkE",
+            "length": 533,
+            "difficulty": 104
+          },
+          {
+            "route": "pTsUkE",
+            "length": 533,
+            "difficulty": 104
+          },
+          {
+            "route": "oUkE",
+            "length": 533,
+            "difficulty": 91
+          },
+          {
+            "route": "oSkE",
+            "length": 535,
+            "difficulty": 80
+          },
+          {
+            "route": "pMsUkE",
+            "length": 536,
+            "difficulty": 104
+          },
+          {
+            "route": "pTodDH",
+            "length": 538,
+            "difficulty": 89
+          },
+          {
+            "route": "tdDH",
+            "length": 542,
+            "difficulty": 88
+          },
+          {
+            "route": "sUmH",
+            "length": 542,
+            "difficulty": 95
+          },
+          {
+            "route": "pTsUmH",
+            "length": 544,
+            "difficulty": 107
+          },
+          {
+            "route": "oUmH",
+            "length": 544,
+            "difficulty": 95
+          },
+          {
+            "route": "tMkE",
+            "length": 547,
+            "difficulty": 80
+          },
+          {
+            "route": "tPkE",
+            "length": 551,
+            "difficulty": 80
+          },
+          {
+            "route": "pUkE",
+            "length": 557,
+            "difficulty": 95
+          },
+          {
+            "route": "pSkE",
+            "length": 559,
+            "difficulty": 84
+          },
+          {
+            "route": "tPmH",
+            "length": 562,
+            "difficulty": 84
+          },
+          {
+            "route": "mTkE",
+            "length": 562,
+            "difficulty": 88
+          },
+          {
+            "route": "pUmH",
+            "length": 568,
+            "difficulty": 99
+          },
+          {
+            "route": "tSmH",
+            "length": 570,
+            "difficulty": 88
+          },
+          {
+            "route": "sUtH",
+            "length": 575,
+            "difficulty": 95
+          },
+          {
+            "route": "uStH",
+            "length": 575,
+            "difficulty": 95
+          },
+          {
+            "route": "pToSmH",
+            "length": 577,
+            "difficulty": 96
+          },
+          {
+            "route": "oUtH",
+            "length": 578,
+            "difficulty": 95
+          },
+          {
+            "route": "oStH",
+            "length": 580,
+            "difficulty": 84
+          },
+          {
+            "route": "pMsUtH",
+            "length": 581,
+            "difficulty": 107
+          },
+          {
+            "route": "pMudDH",
+            "length": 590,
+            "difficulty": 115
+          },
+          {
+            "route": "tMsdDH",
+            "length": 591,
+            "difficulty": 104
+          },
+          {
+            "route": "uSmdDH",
+            "length": 597,
+            "difficulty": 126
+          }
+        ],
+        [
+          {
+            "route": "e",
+            "length": 44,
+            "difficulty": 17
+          },
+          {
+            "route": "hMk",
+            "length": 520,
+            "difficulty": 78
+          },
+          {
+            "route": "hTk",
+            "length": 554,
+            "difficulty": 78
+          },
+          {
+            "route": "hUk",
+            "length": 571,
+            "difficulty": 85
+          },
+          {
+            "route": "hSk",
+            "length": 574,
+            "difficulty": 74
+          },
+          {
+            "route": "hMsUk",
+            "length": 594,
+            "difficulty": 109
+          },
+          {
+            "route": "hOk",
+            "length": 635,
+            "difficulty": 81
+          },
+          {
+            "route": "hdDUk",
+            "length": 637,
+            "difficulty": 116
+          },
+          {
+            "route": "hdDSk",
+            "length": 639,
+            "difficulty": 105
+          },
+          {
+            "route": "hPk",
+            "length": 647,
+            "difficulty": 85
+          },
+          {
+            "route": "hSmTk",
+            "length": 680,
+            "difficulty": 101
+          },
+          {
+            "route": "hMuSk",
+            "length": 680,
+            "difficulty": 116
+          },
+          {
+            "route": "hdDOk",
+            "length": 690,
+            "difficulty": 105
+          },
+          {
+            "route": "hOpTk",
+            "length": 701,
+            "difficulty": 101
+          },
+          {
+            "route": "hTuSk",
+            "length": 714,
+            "difficulty": 116
+          },
+          {
+            "route": "hTsUk",
+            "length": 714,
+            "difficulty": 116
+          },
+          {
+            "route": "hMtPk",
+            "length": 716,
+            "difficulty": 112
+          },
+          {
+            "route": "hMpTk",
+            "length": 716,
+            "difficulty": 112
+          },
+          {
+            "route": "hMsOk",
+            "length": 729,
+            "difficulty": 112
+          },
+          {
+            "route": "hdDSmTk",
+            "length": 745,
+            "difficulty": 132
+          },
+          {
+            "route": "hdDOpTk",
+            "length": 755,
+            "difficulty": 125
+          },
+          {
+            "route": "hUmTk",
+            "length": 763,
+            "difficulty": 120
+          },
+          {
+            "route": "hUtMk",
+            "length": 763,
+            "difficulty": 120
+          },
+          {
+            "route": "hStMk",
+            "length": 766,
+            "difficulty": 109
+          },
+          {
+            "route": "hUpTk",
+            "length": 767,
+            "difficulty": 120
+          },
+          {
+            "route": "hUtPk",
+            "length": 767,
+            "difficulty": 120
+          },
+          {
+            "route": "hSpTk",
+            "length": 769,
+            "difficulty": 109
+          },
+          {
+            "route": "hStPk",
+            "length": 769,
+            "difficulty": 109
+          },
+          {
+            "route": "hSmPk",
+            "length": 772,
+            "difficulty": 109
+          },
+          {
+            "route": "hMsUtPk",
+            "length": 790,
+            "difficulty": 143
+          },
+          {
+            "route": "hMsUpTk",
+            "length": 790,
+            "difficulty": 143
+          },
+          {
+            "route": "hOpMk",
+            "length": 791,
+            "difficulty": 109
+          },
+          {
+            "route": "hMsOpTk",
+            "length": 794,
+            "difficulty": 132
+          },
+          {
+            "route": "hOuSk",
+            "length": 795,
+            "difficulty": 120
+          },
+          {
+            "route": "hOsUk",
+            "length": 795,
+            "difficulty": 120
+          },
+          {
+            "route": "hdDSmUk",
+            "length": 806,
+            "difficulty": 154
+          },
+          {
+            "route": "hPuSk",
+            "length": 807,
+            "difficulty": 123
+          },
+          {
+            "route": "hPsUk",
+            "length": 807,
+            "difficulty": 123
+          },
+          {
+            "route": "hMtUk",
+            "length": 807,
+            "difficulty": 135
+          },
+          {
+            "route": "hTmUk",
+            "length": 807,
+            "difficulty": 135
+          },
+          {
+            "route": "hPoUk",
+            "length": 809,
+            "difficulty": 123
+          },
+          {
+            "route": "hMtSk",
+            "length": 810,
+            "difficulty": 123
+          },
+          {
+            "route": "hTmSk",
+            "length": 810,
+            "difficulty": 123
+          },
+          {
+            "route": "hPoSk",
+            "length": 812,
+            "difficulty": 112
+          },
+          {
+            "route": "hOtMk",
+            "length": 812,
+            "difficulty": 109
+          },
+          {
+            "route": "hMuOk",
+            "length": 813,
+            "difficulty": 131
+          },
+          {
+            "route": "hMoUk",
+            "length": 813,
+            "difficulty": 131
+          },
+          {
+            "route": "hMoSk",
+            "length": 815,
+            "difficulty": 120
+          },
+          {
+            "route": "hOtPk",
+            "length": 816,
+            "difficulty": 109
+          },
+          {
+            "route": "hTpMk",
+            "length": 824,
+            "difficulty": 112
+          }
+        ],
+        [
+          {
+            "route": "Eh",
+            "length": 151,
+            "difficulty": 20
+          },
+          {
+            "route": "Km",
+            "length": 505,
+            "difficulty": 64
+          },
+          {
+            "route": "EhdD",
+            "length": 523,
+            "difficulty": 73
+          },
+          {
+            "route": "Kt",
+            "length": 538,
+            "difficulty": 64
+          },
+          {
+            "route": "EhSm",
+            "length": 551,
+            "difficulty": 73
+          },
+          {
+            "route": "KuSm",
+            "length": 578,
+            "difficulty": 95
+          },
+          {
+            "route": "EhMsdD",
+            "length": 616,
+            "difficulty": 104
+          },
+          {
+            "route": "EhdDSm",
+            "length": 616,
+            "difficulty": 104
+          },
+          {
+            "route": "EhMt",
+            "length": 618,
+            "difficulty": 84
+          },
+          {
+            "route": "EhTm",
+            "length": 618,
+            "difficulty": 84
+          },
+          {
+            "route": "KudD",
+            "length": 621,
+            "difficulty": 102
+          },
+          {
+            "route": "KsdD",
+            "length": 623,
+            "difficulty": 91
+          },
+          {
+            "route": "Kp",
+            "length": 631,
+            "difficulty": 72
+          },
+          {
+            "route": "EhUm",
+            "length": 635,
+            "difficulty": 91
+          },
+          {
+            "route": "KmdD",
+            "length": 646,
+            "difficulty": 102
+          },
+          {
+            "route": "KsUm",
+            "length": 665,
+            "difficulty": 102
+          },
+          {
+            "route": "EhUt",
+            "length": 669,
+            "difficulty": 91
+          },
+          {
+            "route": "EhSt",
+            "length": 671,
+            "difficulty": 80
+          },
+          {
+            "route": "KodD",
+            "length": 674,
+            "difficulty": 91
+          },
+          {
+            "route": "KtdD",
+            "length": 679,
+            "difficulty": 102
+          },
+          {
+            "route": "EhMsUt",
+            "length": 691,
+            "difficulty": 115
+          },
+          {
+            "route": "EhTuSm",
+            "length": 691,
+            "difficulty": 115
+          },
+          {
+            "route": "EhOp",
+            "length": 696,
+            "difficulty": 80
+          },
+          {
+            "route": "KuSt",
+            "length": 698,
+            "difficulty": 102
+          },
+          {
+            "route": "KsUt",
+            "length": 698,
+            "difficulty": 102
+          },
+          {
+            "route": "EhOm",
+            "length": 699,
+            "difficulty": 88
+          },
+          {
+            "route": "KpTm",
+            "length": 700,
+            "difficulty": 99
+          },
+          {
+            "route": "KtPm",
+            "length": 700,
+            "difficulty": 99
+          },
+          {
+            "route": "EhMudD",
+            "length": 700,
+            "difficulty": 122
+          },
+          {
+            "route": "EhdDUm",
+            "length": 700,
+            "difficulty": 122
+          },
+          {
+            "route": "KtSm",
+            "length": 707,
+            "difficulty": 102
+          },
+          {
+            "route": "EhMp",
+            "length": 710,
+            "difficulty": 91
+          },
+          {
+            "route": "EhPm",
+            "length": 710,
+            "difficulty": 91
+          },
+          {
+            "route": "KoSm",
+            "length": 713,
+            "difficulty": 99
+          },
+          {
+            "route": "EhOt",
+            "length": 717,
+            "difficulty": 80
+          },
+          {
+            "route": "KuSmdD",
+            "length": 719,
+            "difficulty": 133
+          },
+          {
+            "route": "EhTp",
+            "length": 729,
+            "difficulty": 84
+          },
+          {
+            "route": "EhPt",
+            "length": 729,
+            "difficulty": 84
+          },
+          {
+            "route": "KtMsdD",
+            "length": 729,
+            "difficulty": 119
+          },
+          {
+            "route": "EhTudD",
+            "length": 734,
+            "difficulty": 122
+          },
+          {
+            "route": "EhdDUt",
+            "length": 734,
+            "difficulty": 122
+          },
+          {
+            "route": "EhTsdD",
+            "length": 736,
+            "difficulty": 111
+          },
+          {
+            "route": "EhdDSt",
+            "length": 736,
+            "difficulty": 111
+          },
+          {
+            "route": "KtPodD",
+            "length": 739,
+            "difficulty": 111
+          },
+          {
+            "route": "EhPodD",
+            "length": 750,
+            "difficulty": 104
+          },
+          {
+            "route": "EhdDOp",
+            "length": 750,
+            "difficulty": 104
+          },
+          {
+            "route": "EhModD",
+            "length": 753,
+            "difficulty": 111
+          },
+          {
+            "route": "EhdDOm",
+            "length": 753,
+            "difficulty": 111
+          },
+          {
+            "route": "EhSudD",
+            "length": 754,
+            "difficulty": 119
+          },
+          {
+            "route": "EhUsdD",
+            "length": 754,
+            "difficulty": 119
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 80,
+            "difficulty": 11
+          },
+          {
+            "route": "dD",
+            "length": 410,
+            "difficulty": 57
+          },
+          {
+            "route": "Sm",
+            "length": 411,
+            "difficulty": 53
+          },
+          {
+            "route": "dDSm",
+            "length": 476,
+            "difficulty": 84
+          },
+          {
+            "route": "Mt",
+            "length": 478,
+            "difficulty": 64
+          },
+          {
+            "route": "Tm",
+            "length": 478,
+            "difficulty": 64
+          },
+          {
+            "route": "Um",
+            "length": 495,
+            "difficulty": 72
+          },
+          {
+            "route": "MsdD",
+            "length": 503,
+            "difficulty": 88
+          },
+          {
+            "route": "Ut",
+            "length": 529,
+            "difficulty": 72
+          },
+          {
+            "route": "St",
+            "length": 531,
+            "difficulty": 60
+          },
+          {
+            "route": "MsUt",
+            "length": 551,
+            "difficulty": 95
+          },
+          {
+            "route": "TuSm",
+            "length": 551,
+            "difficulty": 95
+          },
+          {
+            "route": "HeKm",
+            "length": 555,
+            "difficulty": 77
+          },
+          {
+            "route": "Op",
+            "length": 556,
+            "difficulty": 60
+          },
+          {
+            "route": "Om",
+            "length": 559,
+            "difficulty": 68
+          },
+          {
+            "route": "dDUm",
+            "length": 560,
+            "difficulty": 102
+          },
+          {
+            "route": "Mp",
+            "length": 570,
+            "difficulty": 72
+          },
+          {
+            "route": "Pm",
+            "length": 570,
+            "difficulty": 72
+          },
+          {
+            "route": "Ot",
+            "length": 577,
+            "difficulty": 60
+          },
+          {
+            "route": "MudD",
+            "length": 587,
+            "difficulty": 106
+          },
+          {
+            "route": "HeKt",
+            "length": 588,
+            "difficulty": 77
+          },
+          {
+            "route": "Tp",
+            "length": 589,
+            "difficulty": 64
+          },
+          {
+            "route": "Pt",
+            "length": 589,
+            "difficulty": 64
+          },
+          {
+            "route": "dDUt",
+            "length": 594,
+            "difficulty": 102
+          },
+          {
+            "route": "dDSt",
+            "length": 596,
+            "difficulty": 91
+          },
+          {
+            "route": "dDOp",
+            "length": 610,
+            "difficulty": 84
+          },
+          {
+            "route": "dDOm",
+            "length": 613,
+            "difficulty": 91
+          },
+          {
+            "route": "TudD",
+            "length": 620,
+            "difficulty": 106
+          },
+          {
+            "route": "Up",
+            "length": 621,
+            "difficulty": 79
+          },
+          {
+            "route": "TsdD",
+            "length": 623,
+            "difficulty": 95
+          },
+          {
+            "route": "MkEh",
+            "length": 624,
+            "difficulty": 88
+          },
+          {
+            "route": "Sp",
+            "length": 624,
+            "difficulty": 68
+          },
+          {
+            "route": "OpTm",
+            "length": 625,
+            "difficulty": 88
+          },
+          {
+            "route": "HeKuSm",
+            "length": 629,
+            "difficulty": 107
+          },
+          {
+            "route": "dDOt",
+            "length": 632,
+            "difficulty": 84
+          },
+          {
+            "route": "OuSm",
+            "length": 633,
+            "difficulty": 99
+          },
+          {
+            "route": "PodD",
+            "length": 636,
+            "difficulty": 88
+          },
+          {
+            "route": "TsUm",
+            "length": 638,
+            "difficulty": 102
+          },
+          {
+            "route": "MuSt",
+            "length": 638,
+            "difficulty": 102
+          },
+          {
+            "route": "ModD",
+            "length": 640,
+            "difficulty": 95
+          },
+          {
+            "route": "SudD",
+            "length": 640,
+            "difficulty": 102
+          },
+          {
+            "route": "UsdD",
+            "length": 640,
+            "difficulty": 102
+          },
+          {
+            "route": "MsUp",
+            "length": 644,
+            "difficulty": 102
+          },
+          {
+            "route": "PuSm",
+            "length": 644,
+            "difficulty": 102
+          },
+          {
+            "route": "MtdD",
+            "length": 645,
+            "difficulty": 106
+          },
+          {
+            "route": "TmdD",
+            "length": 645,
+            "difficulty": 106
+          },
+          {
+            "route": "MsOp",
+            "length": 649,
+            "difficulty": 91
+          },
+          {
+            "route": "PoSm",
+            "length": 649,
+            "difficulty": 91
+          },
+          {
+            "route": "TkEh",
+            "length": 657,
+            "difficulty": 88
+          },
+          {
+            "route": "TodD",
+            "length": 658,
+            "difficulty": 88
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 104,
+            "difficulty": 19
+          },
+          {
+            "route": "dD",
+            "length": 395,
+            "difficulty": 46
+          },
+          {
+            "route": "Sm",
+            "length": 436,
+            "difficulty": 60
+          },
+          {
+            "route": "MsdD",
+            "length": 489,
+            "difficulty": 77
+          },
+          {
+            "route": "Tm",
+            "length": 502,
+            "difficulty": 72
+          },
+          {
+            "route": "Mt",
+            "length": 502,
+            "difficulty": 72
+          },
+          {
+            "route": "Um",
+            "length": 520,
+            "difficulty": 79
+          },
+          {
+            "route": "dDSm",
+            "length": 528,
+            "difficulty": 95
+          },
+          {
+            "route": "Ut",
+            "length": 553,
+            "difficulty": 79
+          },
+          {
+            "route": "St",
+            "length": 556,
+            "difficulty": 68
+          },
+          {
+            "route": "MudD",
+            "length": 573,
+            "difficulty": 95
+          },
+          {
+            "route": "TuSm",
+            "length": 576,
+            "difficulty": 102
+          },
+          {
+            "route": "MsUt",
+            "length": 576,
+            "difficulty": 102
+          },
+          {
+            "route": "Op",
+            "length": 580,
+            "difficulty": 68
+          },
+          {
+            "route": "Om",
+            "length": 584,
+            "difficulty": 75
+          },
+          {
+            "route": "Mp",
+            "length": 595,
+            "difficulty": 79
+          },
+          {
+            "route": "Pm",
+            "length": 595,
+            "difficulty": 79
+          },
+          {
+            "route": "Ot",
+            "length": 602,
+            "difficulty": 68
+          },
+          {
+            "route": "TudD",
+            "length": 606,
+            "difficulty": 95
+          },
+          {
+            "route": "TsdD",
+            "length": 609,
+            "difficulty": 84
+          },
+          {
+            "route": "dDUm",
+            "length": 612,
+            "difficulty": 114
+          },
+          {
+            "route": "Tp",
+            "length": 613,
+            "difficulty": 72
+          },
+          {
+            "route": "Pt",
+            "length": 613,
+            "difficulty": 72
+          },
+          {
+            "route": "MkEh",
+            "length": 622,
+            "difficulty": 91
+          },
+          {
+            "route": "PodD",
+            "length": 622,
+            "difficulty": 77
+          },
+          {
+            "route": "ModD",
+            "length": 625,
+            "difficulty": 84
+          },
+          {
+            "route": "SudD",
+            "length": 626,
+            "difficulty": 91
+          },
+          {
+            "route": "UsdD",
+            "length": 626,
+            "difficulty": 91
+          },
+          {
+            "route": "MtdD",
+            "length": 631,
+            "difficulty": 95
+          },
+          {
+            "route": "TmdD",
+            "length": 631,
+            "difficulty": 95
+          },
+          {
+            "route": "TodD",
+            "length": 644,
+            "difficulty": 77
+          },
+          {
+            "route": "dDUt",
+            "length": 645,
+            "difficulty": 114
+          },
+          {
+            "route": "Up",
+            "length": 646,
+            "difficulty": 86
+          },
+          {
+            "route": "dDSt",
+            "length": 648,
+            "difficulty": 102
+          },
+          {
+            "route": "HeKm",
+            "length": 648,
+            "difficulty": 95
+          },
+          {
+            "route": "Sp",
+            "length": 648,
+            "difficulty": 75
+          },
+          {
+            "route": "OpTm",
+            "length": 650,
+            "difficulty": 95
+          },
+          {
+            "route": "TkEh",
+            "length": 655,
+            "difficulty": 91
+          },
+          {
+            "route": "OuSm",
+            "length": 657,
+            "difficulty": 106
+          },
+          {
+            "route": "dDOp",
+            "length": 661,
+            "difficulty": 95
+          },
+          {
+            "route": "TsUm",
+            "length": 662,
+            "difficulty": 110
+          },
+          {
+            "route": "MuSt",
+            "length": 662,
+            "difficulty": 110
+          },
+          {
+            "route": "dDOm",
+            "length": 665,
+            "difficulty": 102
+          },
+          {
+            "route": "MsUp",
+            "length": 669,
+            "difficulty": 110
+          },
+          {
+            "route": "PuSm",
+            "length": 669,
+            "difficulty": 110
+          },
+          {
+            "route": "UkEh",
+            "length": 673,
+            "difficulty": 99
+          },
+          {
+            "route": "MsOp",
+            "length": 674,
+            "difficulty": 99
+          },
+          {
+            "route": "PoSm",
+            "length": 674,
+            "difficulty": 99
+          },
+          {
+            "route": "SkEh",
+            "length": 675,
+            "difficulty": 88
+          },
+          {
+            "route": "UodD",
+            "length": 676,
+            "difficulty": 91
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 163,
+            "difficulty": 7
+          },
+          {
+            "route": "dD",
+            "length": 493,
+            "difficulty": 53
+          },
+          {
+            "route": "Sm",
+            "length": 533,
+            "difficulty": 68
+          },
+          {
+            "route": "MsdD",
+            "length": 586,
+            "difficulty": 84
+          },
+          {
+            "route": "dDSm",
+            "length": 586,
+            "difficulty": 84
+          },
+          {
+            "route": "Mt",
+            "length": 600,
+            "difficulty": 79
+          },
+          {
+            "route": "Tm",
+            "length": 600,
+            "difficulty": 79
+          },
+          {
+            "route": "Um",
+            "length": 617,
+            "difficulty": 86
+          },
+          {
+            "route": "Ut",
+            "length": 651,
+            "difficulty": 86
+          },
+          {
+            "route": "St",
+            "length": 653,
+            "difficulty": 75
+          },
+          {
+            "route": "MudD",
+            "length": 670,
+            "difficulty": 102
+          },
+          {
+            "route": "dDUm",
+            "length": 670,
+            "difficulty": 102
+          },
+          {
+            "route": "TuSm",
+            "length": 673,
+            "difficulty": 110
+          },
+          {
+            "route": "MsUt",
+            "length": 673,
+            "difficulty": 110
+          },
+          {
+            "route": "Op",
+            "length": 678,
+            "difficulty": 75
+          },
+          {
+            "route": "Om",
+            "length": 681,
+            "difficulty": 83
+          },
+          {
+            "route": "Mp",
+            "length": 693,
+            "difficulty": 86
+          },
+          {
+            "route": "Pm",
+            "length": 693,
+            "difficulty": 86
+          },
+          {
+            "route": "Ot",
+            "length": 700,
+            "difficulty": 75
+          },
+          {
+            "route": "TudD",
+            "length": 704,
+            "difficulty": 102
+          },
+          {
+            "route": "dDUt",
+            "length": 704,
+            "difficulty": 102
+          },
+          {
+            "route": "TsdD",
+            "length": 706,
+            "difficulty": 91
+          },
+          {
+            "route": "dDSt",
+            "length": 706,
+            "difficulty": 91
+          },
+          {
+            "route": "Pt",
+            "length": 711,
+            "difficulty": 79
+          },
+          {
+            "route": "Tp",
+            "length": 711,
+            "difficulty": 79
+          },
+          {
+            "route": "MkEh",
+            "length": 719,
+            "difficulty": 99
+          },
+          {
+            "route": "HeKm",
+            "length": 719,
+            "difficulty": 99
+          },
+          {
+            "route": "PodD",
+            "length": 720,
+            "difficulty": 84
+          },
+          {
+            "route": "dDOp",
+            "length": 720,
+            "difficulty": 84
+          },
+          {
+            "route": "ModD",
+            "length": 723,
+            "difficulty": 91
+          },
+          {
+            "route": "dDOm",
+            "length": 723,
+            "difficulty": 91
+          },
+          {
+            "route": "UsdD",
+            "length": 723,
+            "difficulty": 99
+          },
+          {
+            "route": "SudD",
+            "length": 723,
+            "difficulty": 99
+          },
+          {
+            "route": "MtdD",
+            "length": 729,
+            "difficulty": 102
+          },
+          {
+            "route": "TmdD",
+            "length": 729,
+            "difficulty": 102
+          },
+          {
+            "route": "TodD",
+            "length": 741,
+            "difficulty": 84
+          },
+          {
+            "route": "dDOt",
+            "length": 741,
+            "difficulty": 84
+          },
+          {
+            "route": "Up",
+            "length": 743,
+            "difficulty": 94
+          },
+          {
+            "route": "Sp",
+            "length": 746,
+            "difficulty": 83
+          },
+          {
+            "route": "OpTm",
+            "length": 747,
+            "difficulty": 102
+          },
+          {
+            "route": "TkEh",
+            "length": 753,
+            "difficulty": 99
+          },
+          {
+            "route": "HeKt",
+            "length": 753,
+            "difficulty": 99
+          },
+          {
+            "route": "OuSm",
+            "length": 755,
+            "difficulty": 114
+          },
+          {
+            "route": "MuSt",
+            "length": 760,
+            "difficulty": 117
+          },
+          {
+            "route": "TsUm",
+            "length": 760,
+            "difficulty": 117
+          },
+          {
+            "route": "MsUp",
+            "length": 766,
+            "difficulty": 117
+          },
+          {
+            "route": "PuSm",
+            "length": 766,
+            "difficulty": 117
+          },
+          {
+            "route": "UkEh",
+            "length": 770,
+            "difficulty": 106
+          },
+          {
+            "route": "PoSm",
+            "length": 771,
+            "difficulty": 106
+          },
+          {
+            "route": "MsOp",
+            "length": 771,
+            "difficulty": 106
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 124,
+            "difficulty": 15
+          },
+          {
+            "route": "dD",
+            "length": 386,
+            "difficulty": 53
+          },
+          {
+            "route": "MsdD",
+            "length": 479,
+            "difficulty": 84
+          },
+          {
+            "route": "Sm",
+            "length": 495,
+            "difficulty": 75
+          },
+          {
+            "route": "dDSm",
+            "length": 548,
+            "difficulty": 91
+          },
+          {
+            "route": "Mt",
+            "length": 561,
+            "difficulty": 86
+          },
+          {
+            "route": "Tm",
+            "length": 561,
+            "difficulty": 86
+          },
+          {
+            "route": "MudD",
+            "length": 563,
+            "difficulty": 102
+          },
+          {
+            "route": "Um",
+            "length": 579,
+            "difficulty": 94
+          },
+          {
+            "route": "TudD",
+            "length": 597,
+            "difficulty": 102
+          },
+          {
+            "route": "TsdD",
+            "length": 599,
+            "difficulty": 91
+          },
+          {
+            "route": "Ut",
+            "length": 612,
+            "difficulty": 94
+          },
+          {
+            "route": "PodD",
+            "length": 613,
+            "difficulty": 84
+          },
+          {
+            "route": "St",
+            "length": 615,
+            "difficulty": 83
+          },
+          {
+            "route": "ModD",
+            "length": 616,
+            "difficulty": 91
+          },
+          {
+            "route": "SudD",
+            "length": 617,
+            "difficulty": 99
+          },
+          {
+            "route": "UsdD",
+            "length": 617,
+            "difficulty": 99
+          },
+          {
+            "route": "TmdD",
+            "length": 622,
+            "difficulty": 102
+          },
+          {
+            "route": "MtdD",
+            "length": 622,
+            "difficulty": 102
+          },
+          {
+            "route": "dDUm",
+            "length": 631,
+            "difficulty": 110
+          },
+          {
+            "route": "TodD",
+            "length": 635,
+            "difficulty": 84
+          },
+          {
+            "route": "MsUt",
+            "length": 635,
+            "difficulty": 117
+          },
+          {
+            "route": "TuSm",
+            "length": 635,
+            "difficulty": 117
+          },
+          {
+            "route": "Op",
+            "length": 639,
+            "difficulty": 83
+          },
+          {
+            "route": "Om",
+            "length": 643,
+            "difficulty": 90
+          },
+          {
+            "route": "Mp",
+            "length": 654,
+            "difficulty": 94
+          },
+          {
+            "route": "Pm",
+            "length": 654,
+            "difficulty": 94
+          },
+          {
+            "route": "Ot",
+            "length": 661,
+            "difficulty": 83
+          },
+          {
+            "route": "dDUt",
+            "length": 665,
+            "difficulty": 110
+          },
+          {
+            "route": "UodD",
+            "length": 667,
+            "difficulty": 99
+          },
+          {
+            "route": "dDSt",
+            "length": 667,
+            "difficulty": 99
+          },
+          {
+            "route": "SodD",
+            "length": 670,
+            "difficulty": 88
+          },
+          {
+            "route": "Pt",
+            "length": 672,
+            "difficulty": 86
+          },
+          {
+            "route": "Tp",
+            "length": 672,
+            "difficulty": 86
+          },
+          {
+            "route": "OudD",
+            "length": 678,
+            "difficulty": 106
+          },
+          {
+            "route": "MkEh",
+            "length": 681,
+            "difficulty": 106
+          },
+          {
+            "route": "HeKm",
+            "length": 681,
+            "difficulty": 106
+          },
+          {
+            "route": "OsdD",
+            "length": 681,
+            "difficulty": 95
+          },
+          {
+            "route": "dDOp",
+            "length": 681,
+            "difficulty": 91
+          },
+          {
+            "route": "MtPodD",
+            "length": 682,
+            "difficulty": 111
+          },
+          {
+            "route": "dDOm",
+            "length": 684,
+            "difficulty": 99
+          },
+          {
+            "route": "PudD",
+            "length": 689,
+            "difficulty": 110
+          },
+          {
+            "route": "MsUodD",
+            "length": 690,
+            "difficulty": 122
+          },
+          {
+            "route": "PsdD",
+            "length": 692,
+            "difficulty": 99
+          },
+          {
+            "route": "MsUtdD",
+            "length": 696,
+            "difficulty": 133
+          },
+          {
+            "route": "TuSmdD",
+            "length": 696,
+            "difficulty": 133
+          },
+          {
+            "route": "dDOt",
+            "length": 703,
+            "difficulty": 91
+          },
+          {
+            "route": "Up",
+            "length": 705,
+            "difficulty": 101
+          },
+          {
+            "route": "Sp",
+            "length": 707,
+            "difficulty": 90
+          },
+          {
+            "route": "OpTm",
+            "length": 708,
+            "difficulty": 110
+          }
+        ],
+        [
+          {
+            "route": "-",
+            "length": 8,
+            "difficulty": 7
+          },
+          {
+            "route": "dD",
+            "length": 363,
+            "difficulty": 57
+          },
+          {
+            "route": "MsdD",
+            "length": 456,
+            "difficulty": 88
+          },
+          {
+            "route": "dDSm",
+            "length": 456,
+            "difficulty": 88
+          },
+          {
+            "route": "Sm",
+            "length": 471,
+            "difficulty": 79
+          },
+          {
+            "route": "Mt",
+            "length": 538,
+            "difficulty": 90
+          },
+          {
+            "route": "Tm",
+            "length": 538,
+            "difficulty": 90
+          },
+          {
+            "route": "MudD",
+            "length": 540,
+            "difficulty": 106
+          },
+          {
+            "route": "dDUm",
+            "length": 540,
+            "difficulty": 106
+          },
+          {
+            "route": "Um",
+            "length": 555,
+            "difficulty": 98
+          },
+          {
+            "route": "TudD",
+            "length": 573,
+            "difficulty": 106
+          },
+          {
+            "route": "dDUt",
+            "length": 573,
+            "difficulty": 106
+          },
+          {
+            "route": "dDSt",
+            "length": 576,
+            "difficulty": 95
+          },
+          {
+            "route": "TsdD",
+            "length": 576,
+            "difficulty": 95
+          },
+          {
+            "route": "Ut",
+            "length": 589,
+            "difficulty": 98
+          },
+          {
+            "route": "PodD",
+            "length": 589,
+            "difficulty": 88
+          },
+          {
+            "route": "dDOp",
+            "length": 589,
+            "difficulty": 88
+          },
+          {
+            "route": "St",
+            "length": 591,
+            "difficulty": 86
+          },
+          {
+            "route": "ModD",
+            "length": 593,
+            "difficulty": 95
+          },
+          {
+            "route": "dDOm",
+            "length": 593,
+            "difficulty": 95
+          },
+          {
+            "route": "SudD",
+            "length": 593,
+            "difficulty": 102
+          },
+          {
+            "route": "UsdD",
+            "length": 593,
+            "difficulty": 102
+          },
+          {
+            "route": "MtdD",
+            "length": 598,
+            "difficulty": 106
+          },
+          {
+            "route": "TmdD",
+            "length": 598,
+            "difficulty": 106
+          },
+          {
+            "route": "TodD",
+            "length": 611,
+            "difficulty": 88
+          },
+          {
+            "route": "dDOt",
+            "length": 611,
+            "difficulty": 88
+          },
+          {
+            "route": "MsUt",
+            "length": 611,
+            "difficulty": 121
+          },
+          {
+            "route": "TuSm",
+            "length": 611,
+            "difficulty": 121
+          },
+          {
+            "route": "Op",
+            "length": 616,
+            "difficulty": 86
+          },
+          {
+            "route": "Om",
+            "length": 619,
+            "difficulty": 94
+          },
+          {
+            "route": "Mp",
+            "length": 631,
+            "difficulty": 98
+          },
+          {
+            "route": "Pm",
+            "length": 631,
+            "difficulty": 98
+          },
+          {
+            "route": "Ot",
+            "length": 638,
+            "difficulty": 86
+          },
+          {
+            "route": "UodD",
+            "length": 644,
+            "difficulty": 102
+          },
+          {
+            "route": "SodD",
+            "length": 646,
+            "difficulty": 91
+          },
+          {
+            "route": "Tp",
+            "length": 649,
+            "difficulty": 90
+          },
+          {
+            "route": "Pt",
+            "length": 649,
+            "difficulty": 90
+          },
+          {
+            "route": "OudD",
+            "length": 655,
+            "difficulty": 110
+          },
+          {
+            "route": "MkEh",
+            "length": 657,
+            "difficulty": 110
+          },
+          {
+            "route": "HeKm",
+            "length": 657,
+            "difficulty": 110
+          },
+          {
+            "route": "OsdD",
+            "length": 657,
+            "difficulty": 99
+          },
+          {
+            "route": "MtPodD",
+            "length": 659,
+            "difficulty": 115
+          },
+          {
+            "route": "dDOpTm",
+            "length": 659,
+            "difficulty": 115
+          },
+          {
+            "route": "PudD",
+            "length": 666,
+            "difficulty": 114
+          },
+          {
+            "route": "dDUp",
+            "length": 666,
+            "difficulty": 114
+          },
+          {
+            "route": "MsUodD",
+            "length": 667,
+            "difficulty": 126
+          },
+          {
+            "route": "dDOuSm",
+            "length": 667,
+            "difficulty": 126
+          },
+          {
+            "route": "PsdD",
+            "length": 669,
+            "difficulty": 102
+          },
+          {
+            "route": "dDSp",
+            "length": 669,
+            "difficulty": 102
+          },
+          {
+            "route": "MsUtdD",
+            "length": 672,
+            "difficulty": 137
+          }
+        ]
+      ]
+    }
+  ]
+}
